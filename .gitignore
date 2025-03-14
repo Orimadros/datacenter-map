@@ -133,3 +133,9 @@ data/raw/110m_cultural/ne_110m_admin_0_boundary_lines_land.prj
 data/raw/110m_cultural/ne_110m_admin_0_boundary_lines_land.dbf
 data/raw/110m_cultural/ne_110m_admin_0_boundary_lines_land.cpg
 data/raw/110m_cultural/CHANGELOG
+code/1000.geojson
+code/10000.geojson
+code/25000.geojson
+code/5000.geojson
+code/50000.geojson
+data/raw/.DS_Store
