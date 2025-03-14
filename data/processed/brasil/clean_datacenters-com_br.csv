@@ -1,0 +1,132 @@
+,name,provider,MW_total_power,sqft_total_space,latitude,longitude,zipcode
+0,Amazon AWS: GRU1 Sao Paulo,Amazon AWS,,,-23.625980500889,-46.647866594907,04065-003
+1,Equinix: SP3 Santana de Parnaiba Data Center,Equinix,,217861.0,-23.469071048257,-46.86831644346,06543-001
+2,Microsoft Azure: Brazil South-Sao Paulo State,Microsoft Azure,,,-23.566865703821,-46.408654621993,08490-040
+3,Equinix: SP4 Sao Paulo,Equinix,,185677.0,-23.625980500889,-46.647866594907,04065-003
+4,Equinix: SP2 Barueri Data Center,Equinix,12.0,95387.0,-23.503103895813,-46.827212919866,06455-908
+5,Latitude.sh: São Paulo I,Latitude.sh,1.0,7000.0,-23.580059992885,-46.64119971294,04013-050
+6,Equinix: SP1 Centro Data Center,Equinix,1.0,52743.0,-23.546015384396,-46.635778633242,01008-901
+7,Elea Data Centers: POA1 Porto Alegre Data Center,Elea Data Centers,,,-30.0348192,-51.1904573,90460-050
+8,Cirion Technologies: SAO1 Data Center,Cirion Technologies,24.0,15000.0,-23.457424,-46.57108,
+9,Equinix: RJ2 Del Castilho Data Center,Equinix,9.0,168888.0,-22.871293804083,-43.272123068232,21061-750
+10,Cirion Technologies: CUR1 Data Center,Cirion Technologies,1.0,3000.0,-25.469976610257,-49.350229897234,81270-050
+11,Amazon AWS: GIG50 (TIVIT),Amazon AWS,,,-22.984980364789,-43.431498419229,22783-111
+12,Amazon AWS: GRU2 (Algar CPS),Amazon AWS,,,-22.823207752411,-47.097013287749,13082-800
+13,Amazon AWS: GRU4 (Ascenty JD-1),Amazon AWS,,,-23.187824526753,-46.973130530049,13212-181
+14,Equinix: RJ1 Botafogo Data Center,Equinix,1.0,55972.0,-22.954878100639,-43.194557020066,22270-016
+15,Amazon AWS: GRU3 (TIVIT SP1),Amazon AWS,,,-23.648381882831,-46.722498440716,04757-000
+16,Ascenty: Hortolândia 4 Data Center,Ascenty,,32291.0,-22.896033619948,-47.179040874904,13185-324
+17,Telefonica Global Solutions: Tambore,Telefonica Global Solutions,7.0,955469.0,-23.464138481516,-46.859049315964,06543-001
+18,China Telecom: SP2 Data Center,China Telecom,,,-23.50264315,-46.82710274269107,06455-000
+19,Ascenty: RJ1 Rio de Janeiro RIO01 Data Center,Ascenty,10.0,75000.0,-22.808632177595594,-43.34311760499331,21535-510
+20,Scala Data Centers: SGRUTB01,Scala Data Centers,21.0,169178.0,-23.4979464,-46.8215489,06460-120
+21,Hivelocity: SAO1 Sao Paulo Brazil,Hivelocity,,,-23.596556935693,-46.849316027509,06708-070
+22,"IBM Cloud: SAO01 Sao Paulo, Brazil",IBM Cloud,,,-23.580689683361,-46.650119231385,04007-900
+23,China Telecom: SP1 Data Center,China Telecom,,,-23.546015384396,-46.635778633242,01008-010
+24,Ascenty: SP2 Sao Paulo Data Center,Ascenty,14.0,96875.0,-23.492253346018,-46.778389277118,02675-031
+25,Equinix: SP5x Sao Paulo xScale Data Center,Equinix,14.0,54760.0,-23.465489364762,-46.865238803908,06543-001
+26,Zenlayer: SAO1 Sao Paulo Brazil Data Center,Zenlayer,,,-23.503103895813,-46.827212919866,06455-000
+27,NTT Communications: Sao Paulo Data Center,NTT Communications,,,-22.754203293173,-47.165257443668,13145-034
+28,Elea Data Centers: SPO2 São Bernardo do Campo Data Center,Elea Data Centers,,,-23.627379008924,-46.598147043069,04627-027
+29,Amazon AWS: GRU50 (UOL DIVEO),Amazon AWS,,,-23.625584134372,-46.647880545259,
+30,Zenlayer: SAO2 Sao Paulo Brazil Data Center,Zenlayer,,,-23.469071048257,-46.86831644346,06543-385
+31,Digital Realty: São Paulo CPS01 Data Center,Digital Realty,6.0,54000.0,-22.84837340603,-47.153128640332,13069-320
+32,HostDime: North Brazil Data Center,HostDime,,20000.0,-7.3082031,-35.3465319,58030-040
+33,China Telecom: Ascenty Sao Paulo Data Center,China Telecom,,,-23.4936054,-46.7785169,02675-031
+34,China Telecom: SP3 Data Center,China Telecom,,,-23.469071048257,-46.86831644346,06543-001
+35,TAKODA: Takoda Rio de Janeiro - RJ1,TAKODA,9.0,9896.0,-22.98414658606165,-43.43158945539098,22783-111
+36,Ascenty: Hortolândia 1 Data Center,Ascenty,10.0,43000.0,-22.8954229,-47.1775078,13185-252
+37,NextStream: CIC Data Center,NextStream,,,-25.4962621,-49.3288227,81350-200
+38,Ascenty: SP3 Sao Paulo 3,Ascenty,4.0,43055.0,-23.492249205472,-46.778292361078,06276-125
+39,Scala Data Centers: SGRUTB05,Scala Data Centers,6.0,72669.0,-23.4979464,-46.8215489,06460-120
+40,ODATA: DC SP03 Data Center,ODATA,,,-23.5011586,-46.8246985,06460-070
+41,HostDime: South Brazil Data Center,HostDime,5.0,25000.0,-23.528978204231,-46.820630365973,06327-290
+42,ODATA: DC RJ01 Data Center,ODATA,,,-22.797623915969,-43.357630885838,25565-350
+43,Latitude.sh: São Paulo II,Latitude.sh,,,-23.535606401756,-46.647692418959,01215-001
+44,Zenlayer: SAO4 São Paulo Data Center,Zenlayer,,,-23.492249205472,-46.778292361078,06276-125
+45,Equinix: Equinix SP6,Equinix,,,-23.457597524572,-46.851760823569,06543-007
+46,Ascenty: Jundiaí 1 Data Center,Ascenty,15.0,75347.0,-23.187824526753,-46.973130530049,13212-181
+47,Elea Data Centers: POA2 Porto Alegre Data Center,Elea Data Centers,,,-30.020194505351,-51.214316380776,90230-010
+48,Ascenty: Jundiai 2 Data Center,Ascenty,14.0,97000.0,-23.2023952,-46.9804614,
+49,Digital Realty: São Paulo SP04 Data Center,Digital Realty,9.0,75000.0,-23.492249205472,-46.778292361078,06268-120
+50,Ascenty: Campinas 1 Data Center,Ascenty,6.0,53819.0,-22.84837340603,-47.153128640332,13069-320
+51,Edgeuno: FOR2 Fortaleza Data Center,Edgeuno,,,-3.735052917029,-38.458391464529,60182-330
+52,Ascenty: Sumare 1 Data Center,Ascenty,14.0,118000.0,-22.80070883969,-47.222020917859,13177-435
+53,Ascenty: Paulínia 1 Data Center,Ascenty,14.0,86000.0,-22.795770247763,-47.135687593184,
+54,Scala Data Centers: SPOAPA01,Scala Data Centers,4.0,43809.0,-30.0021937,-51.1981737,90240-001
+55,Scala Data Centers: SGRUTB08,Scala Data Centers,24.0,189251.0,-23.4979464,-46.8215489,06460-120
+56,ODATA: DC SP02 Data Center,ODATA,,,-22.900573720369,-47.197857605579,13186-510
+57,NextStream: Tamboré Data Center,NextStream,,,-23.464138481516,-46.859049315964,06543-001
+58,Elea Data Centers: SPO3 Tamboré Data Center,Elea Data Centers,,,-23.627379008924,-46.598147043069,04627-027
+59,Cirion Technologies: RIO1 Data Center,Cirion Technologies,5.0,5000.0,-22.90384,-43.21636,
+60,Ascenty: Hortolandia 3 Data Center,Ascenty,3.0,32291.0,-22.896033619948,-47.179040874904,13185-324
+61,Elea Data Centers: CTA1 Curitiba Data Center,Elea Data Centers,,,-25.42486692913,-49.281088129931,
+62,Ascenty: HORTOLÂNDIA 2 Data Center,Ascenty,7.0,43055.0,-22.896033619948,-47.179040874904,13185-324
+63,Scala Data Centers: SGRUTB03,Scala Data Centers,9.0,81763.0,-23.496901490629213,-46.8286808214364,06460-120
+64,CloudHQ: GRU Campus Brazil - Paulinia,CloudHQ,,,-22.9906973,-47.1460129,
+65,CloudHQ: GIG Campus Brazil - Rio,CloudHQ,,,-22.795518300502,-43.352552542941,25586-140
+66,Elea Data Centers: SPO1 São Paulo Data Center,Elea Data Centers,,,-23.2720049,-47.2744982,
+67,Ascenty: SP1 São Paulo Data Center,Ascenty,6.0,43055.0,-23.492253346018,-46.778389277118,02675-031
+68,Ascenty: RJ2 Rio de Janeiro Data Center,Ascenty,3.0,32000.0,-22.805786716196,-43.347914751315,21535-510
+69,TAKODA: Takoda Sao Paulo - SP2,TAKODA,1.0,,-23.655383383916906,-46.73580844039931,05805-000
+70,Psychz Networks: Sao Paulo Data Center,Psychz Networks,,64260.0,-23.497448111549,-46.824668128779,06460-120
+71,Zenlayer: GIG1 Rio De Janeiro Data Center,Zenlayer,,,-22.878044694902318,-43.264565559295704,21051-070
+72,Claranet: São Paulo Data Center,Claranet,,,-23.5038889,-46.8447222,
+73,Digital Realty: São Paulo SP01 Data Center,Digital Realty,6.0,43000.0,-23.49108892986738,-46.778863445984534,06268-120
+74,Digital Realty: Rio de Janeiro RIO02 Data Center,Digital Realty,3.0,32000.0,-22.805786716196,-43.347914751315,21535-510
+75,Edgeuno: BSB1 Brasilia Data Center,Edgeuno,,,-15.8301635,-47.9148153,
+76,Edgeuno: FOR1 Fortaleza Data Center,Edgeuno,,,-3.735326,-38.4618152,60182-325
+77,Edgeuno: GRU1 Barueri Data Center,Edgeuno,,,-23.497448111549,-46.824668128779,06460-120
+78,Edgeuno: GRU9 Rio de Janeiro Data Center,Edgeuno,,,-22.871293804083,-43.272123068232,21051-070
+79,Digital Realty: São Paulo JDI02 Data Center,Digital Realty,14.0,97000.0,-23.187929097525963,-46.97305326187163,13212-181
+80,Edgeuno: POA1 Porto Alegre Data Center,Edgeuno,,,-30.03020525,-51.2299755,90010-230
+81,Ascenty: Vinhedo 2 Data Center,Ascenty,,26909.0,-23.038516177066,-46.984285587529,13289-192
+82,Ascenty: Fortaleza Data Center,Ascenty,10.0,97000.0,-3.8231014349033026,-38.5567918441754,61921-430
+83,TAKODA: Takoda Sao Paulo - SP1,TAKODA,7.0,14237.0,-23.650565293455,-46.721034658477,04757-000
+84,Digital Realty: São Paulo SP02 Data Center,Digital Realty,14.0,97000.0,-23.49108892986738,-46.778863445984534,06268-120
+85,Zenlayer: SAO3 São Paulo Data Center,Zenlayer,,,-22.265506473047,-48.729347330001,
+86,Ascenty: Vinhedo 1 Data Center,Ascenty,34.0,22604.0,-23.038516177066,-46.984285587529,13289-192
+87,Edgeuno: SSA1 Salvador Data Center,Edgeuno,,,-12.932156788615,-38.327902125756,41603-110
+88,Edgeuno: CWB1 Curitiba Data Center,Edgeuno,,,-25.459107586862,-49.259561509481,80220-320
+89,Edgeuno: GRU5 Osasco Data Center,Edgeuno,,,-23.492249205472,-46.778292361078,06268-120
+90,Edgeuno: GRU7 Santana de Parnaíba Data Center,Edgeuno,,,-23.469071048257,-46.86831644346,06543-001
+91,Digital Realty: São Paulo JDI01 Data Center,Digital Realty,15.0,75000.0,-23.187929097525963,-46.97305326187163,13212-181
+92,Digital Realty: Rio de Janeiro RIO01 Data Center,Digital Realty,10.0,75000.0,-22.805786716196,-43.347914751315,21535-510
+93,NextStream: Lince Data Center,NextStream,,,-25.4962621,-49.3288227,81350-200
+94,Elea Data Centers: RJO1 Rio de Janeiro Data Center,Elea Data Centers,,,-22.93528,-43.37257,
+95,Scala Data Centers: SGRUTB04,Scala Data Centers,12.0,137222.0,-23.496797,-46.815908,06460-120
+96,Scala Data Centers: SGRUTB12,Scala Data Centers,6.0,77016.0,-23.497304325311,-46.825741427509,06460-120
+97,ODATA: DC SP01 Data Center,ODATA,,,-23.449093440599,-46.91487622549,06513-001
+98,Digital Realty: Fortaleza FTZ01 Data Center,Digital Realty,10.0,97000.0,-3.830654303491639,-38.61262835299939,61921-430
+99,Zenlayer: FOR1 Fortaleza Data Center,Zenlayer,,,-3.735052917029,-38.458391464529,60182-330
+100,CenterServ: Vitoria Data Center,CenterServ,,,-20.311718463616,-40.291135674887,29050-545
+101,Digital Realty: São Paulo SP03 Data Center,Digital Realty,4.0,43000.0,-23.492249205472,-46.778292361078,06276-125
+102,Scala Data Centers: SGIGSM01,Scala Data Centers,13.0,120879.0,-22.794916135285,-43.362655571952,25565-350
+103,Digital Realty: São Paulo VIN01 Data Center,Digital Realty,24.0,226000.0,-22.7791353,-48.1227869,
+104,Scala Data Centers: SGRUSP02,Scala Data Centers,4.0,68533.0,-23.535606401756,-46.647692418959,01215-001
+105,Digital Realty: São Paulo VIN02 Data Center,Digital Realty,36.0,269000.0,-22.7791353,-48.1227869,
+106,NextStream: Ixtlauaca Data Center,NextStream,,,-25.4962621,-49.3288227,81350-200
+107,Digital Realty: São Paulo HTL03 Data Center,Digital Realty,3.0,32000.0,-22.89467538505268,-47.17531519314723,13185-252
+108,Elea Data Centers: BSB2 Brasília Data Center,Elea Data Centers,,,-15.788016139456838,-47.91449519277421,70610-908
+109,Scala Data Centers: SVCPCP01,Scala Data Centers,7.0,129328.0,-22.820449598516,-47.099377423105,13082-800
+110,Digital Realty: São Paulo HTL05 Data Center,Digital Realty,31.0,226000.0,-22.89467538505268,-47.17531519314723,13185-324
+111,Digital Realty: São Paulo HTL02 Data Center,Digital Realty,7.0,43000.0,-22.89467538505268,-47.17531519314723,13185-252
+112,Digital Realty: São Paulo HTL01 Data Center,Digital Realty,10.0,43000.0,-22.89467538505268,-47.17531519314723,13185-252
+113,Ascenty: Sumaré 2 Data Center,Ascenty,20.0,129000.0,-22.814090075116,-47.209440061151,
+114,Digital Realty: São Paulo HTL04 Data Center,Digital Realty,3.0,32000.0,-22.89467538505268,-47.17531519314723,13185-252
+115,Digital Realty: São Paulo PLN01 Data Center,Digital Realty,14.0,86000.0,-22.793559569134995,-47.137736704850674,13141-005
+116,Digital Realty: São Paulo SUM03 Data Center,Digital Realty,20.0,130000.0,-23.4961,-46.75504,14200-000
+117,Elea Data Centers: BSB1 Brasília Data Center,Elea Data Centers,,,-15.788539799910135,-47.88601920163078,
+118,Digital Realty: São Paulo SUM01 Data Center,Digital Realty,14.0,118000.0,-23.50341,-46.75334,14200-000
+119,Digital Realty: São Paulo SUM04 Data Center,Digital Realty,20.0,130000.0,-23.4961,-46.75504,14200-000
+120,Digital Realty: São Paulo SUM02 Data Center,Digital Realty,20.0,129000.0,-23.4961,-46.75504,14200-000
+121,Kyndryl: Brazil Data Center,Kyndryl,,,-22.922728098017,-47.238293163896,13190-000
+122,Vivo Empresas: Vivo Tamboré 1 Data Center,Vivo Empresas,,,-23.464138481516,-46.859049315964,06543-001
+123,Novvacore: Sao Paulo Data Center,Novvacore,,,-23.587778510334,-46.670663778982,04508-011
+124,Tecto: Mega Lobster,Tecto,,,-3.7285038822947096,-38.46052824461564,60183-100
+125,Vivo Empresas: Vivo Rio de Janeiro Data Center,Vivo Empresas,,,-22.901501428756,-43.203965203466,20220-090
+126,Vivo Empresas: Vivo Tamboré 2 Data Center,Vivo Empresas,,,-23.464138481516,-46.859049315964,06543-001
+127,Vivo Empresas: Vivo Tamboré 3 Data Center,Vivo Empresas,,,-23.464138481516,-46.859049315964,06543-001
+128,Tecto: Big Lobster,Tecto,,,-3.735052917029,-38.458391464529,60182-330
+129,Ada Infrastructure: Rio de Janeiro Data Center,Ada Infrastructure,50.0,,-23.5901699,-46.68209884093959,04538-132
+130,Ada Infrastructure: Sao Paulo Data Center,Ada Infrastructure,100.0,,-23.5901699,-46.68209884093959,04538-132
