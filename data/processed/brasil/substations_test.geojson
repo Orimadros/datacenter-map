@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "substations_test",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "INS_ID": null, "NOMELONGO": null, "AGE_ID_PRIN": null, "AGE_PRIN_NOM": null, "DTPREVISTA": null, "STR_DTPREVISTA": null, "DTENTRADA": null, "STR_DTENTRADA": null }, "geometry": { "type": "Point", "coordinates": [ -50.283333003999985, -29.958333000183117 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "INS_ID": null, "NOMELONGO": null, "AGE_ID_PRIN": null, "AGE_PRIN_NOM": null, "DTPREVISTA": null, "STR_DTPREVISTA": null, "DTENTRADA": null, "STR_DTENTRADA": null }, "geometry": { "type": "Point", "coordinates": [ -50.300000003999969, -29.925000004183648 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "INS_ID": null, "NOMELONGO": null, "AGE_ID_PRIN": null, "AGE_PRIN_NOM": null, "DTPREVISTA": null, "STR_DTPREVISTA": null, "DTENTRADA": null, "STR_DTENTRADA": null }, "geometry": { "type": "Point", "coordinates": [ -50.252139001999979, -29.953500002183201 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "INS_ID": null, "NOMELONGO": null, "AGE_ID_PRIN": null, "AGE_PRIN_NOM": null, "DTPREVISTA": null, "STR_DTPREVISTA": null, "DTENTRADA": null, "STR_DTENTRADA": null }, "geometry": { "type": "Point", "coordinates": [ -50.255306004999966, -29.980972007182736 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "INS_ID": null, "NOMELONGO": null, "AGE_ID_PRIN": null, "AGE_PRIN_NOM": null, "DTPREVISTA": null, "STR_DTPREVISTA": null, "DTENTRADA": null, "STR_DTENTRADA": null }, "geometry": { "type": "Point", "coordinates": [ -41.120417005999968, -9.882667004680496 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 6, "INS_ID": null, "NOMELONGO": null, "AGE_ID_PRIN": null, "AGE_PRIN_NOM": null, "DTPREVISTA": null, "STR_DTPREVISTA": null, "DTENTRADA": null, "STR_DTENTRADA": null }, "geometry": { "type": "Point", "coordinates": [ -41.105167000999984, -9.890722006680244 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 7, "INS_ID": null, "NOMELONGO": null, "AGE_ID_PRIN": null, "AGE_PRIN_NOM": null, "DTPREVISTA": null, "STR_DTPREVISTA": null, "DTENTRADA": null, "STR_DTENTRADA": null }, "geometry": { "type": "Point", "coordinates": [ -41.089528001999952, -9.853306002681432 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 8, "INS_ID": null, "NOMELONGO": null, "AGE_ID_PRIN": null, "AGE_PRIN_NOM": null, "DTPREVISTA": null, "STR_DTPREVISTA": null, "DTENTRADA": null, "STR_DTENTRADA": null }, "geometry": { "type": "Point", "coordinates": [ -42.351059004999975, -12.312401004606352 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 9, "INS_ID": null, "NOMELONGO": null, "AGE_ID_PRIN": null, "AGE_PRIN_NOM": null, "DTPREVISTA": null, "STR_DTPREVISTA": null, "DTENTRADA": null, "STR_DTENTRADA": null }, "geometry": { "type": "Point", "coordinates": [ -42.362583003999987, -12.278482004607396 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 10, "INS_ID": null, "NOMELONGO": null, "AGE_ID_PRIN": null, "AGE_PRIN_NOM": null, "DTPREVISTA": null, "STR_DTPREVISTA": null, "DTENTRADA": null, "STR_DTENTRADA": null }, "geometry": { "type": "Point", "coordinates": [ -42.338520004999964, -12.351217999605174 ] } }
+]
+}

@@ -1,0 +1,418 @@
+2025-04-09 14:06:16,697 - INFO - Starting data processing for Brazil...
+2025-04-09 14:06:16,697 - INFO - Running in TEST MODE - processing only 10 rows of each dataset
+2025-04-09 14:06:16,697 - INFO - Loading data center locations from: /Users/leonardogomes/Library/CloudStorage/GoogleDrive-leodavinci550@gmail.com/My Drive/Elementum/GCB/Data Centers/dc_map_project/data/raw/brasil/datacenter_map_scraped_brasil.csv
+2025-04-09 14:06:16,700 - INFO - Running in test mode - processing only 10 rows
+2025-04-09 14:06:16,703 - INFO - Starting geocoding process...
+2025-04-09 14:06:18,249 - WARNING - No location found for address: Avenida Ceci, 1900 - Residencial Tambore, Barueri - State of São Paulo, Brazil
+2025-04-09 14:06:19,207 - WARNING - No location found for address: Avenida Ceci, 1900 - Residencial Tambore, Barueri - State of São Paulo, Brazil
+2025-04-09 14:06:20,124 - WARNING - No location found for address: Avenida Ceci, 1900 - Residencial Tambore, Barueri - State of São Paulo, Brazil
+2025-04-09 14:06:21,664 - WARNING - No location found for address: Avenida Marcos Penteado de Ulhôa Rodrigues, 249 - Residencial Tres (Tambore), Santana de Parnaíba - State of São Paulo, Brazil
+2025-04-09 14:06:22,592 - WARNING - No location found for address: Avenida Marcos Penteado de Ulhôa Rodrigues, 249 - Residencial Tres (Tambore), Santana de Parnaíba - State of São Paulo, Brazil
+2025-04-09 14:06:23,608 - WARNING - No location found for address: Avenida Marcos Penteado de Ulhôa Rodrigues, 249 - Residencial Tres (Tambore), Santana de Parnaíba - State of São Paulo, Brazil
+2025-04-09 14:06:27,045 - WARNING - No location found for address: Rua Santa Teresa, 64 - Centro Histórico de São Paulo, São Paulo - State of São Paulo, Brazil
+2025-04-09 14:06:29,342 - WARNING - No location found for address: Rua Santa Teresa, 64 - Centro Histórico de São Paulo, São Paulo - State of São Paulo, Brazil
+2025-04-09 14:06:31,082 - WARNING - No location found for address: Rua Santa Teresa, 64 - Centro Histórico de São Paulo, São Paulo - State of São Paulo, Brazil
+2025-04-09 14:06:32,618 - WARNING - No location found for address: Avenida Ceci, 1900 - Residencial Tambore, Barueri - State of São Paulo, Brazil
+2025-04-09 14:06:33,644 - WARNING - No location found for address: Avenida Ceci, 1900 - Residencial Tambore, Barueri - State of São Paulo, Brazil
+2025-04-09 14:06:34,629 - WARNING - No location found for address: Avenida Ceci, 1900 - Residencial Tambore, Barueri - State of São Paulo, Brazil
+2025-04-09 14:06:36,202 - WARNING - No location found for address: Alameda Araguaia, 3641 - Tamboré, Barueri - State of São Paulo, Brazil
+2025-04-09 14:06:37,123 - WARNING - No location found for address: Alameda Araguaia, 3641 - Tamboré, Barueri - State of São Paulo, Brazil
+2025-04-09 14:06:38,148 - WARNING - No location found for address: Alameda Araguaia, 3641 - Tamboré, Barueri - State of São Paulo, Brazil
+2025-04-09 14:06:40,515 - WARNING - No location found for address: Rua Dr. Eduardo Martinelli, 100 - Vila Mariana, São Paulo - State of São Paulo, Brazil
+2025-04-09 14:06:41,758 - WARNING - No location found for address: Rua Dr. Eduardo Martinelli, 100 - Vila Mariana, São Paulo - State of São Paulo, Brazil
+2025-04-09 14:06:43,064 - WARNING - No location found for address: Rua Dr. Eduardo Martinelli, 100 - Vila Mariana, São Paulo - State of São Paulo, Brazil
+2025-04-09 14:06:45,919 - WARNING - No location found for address: Rua Doutor Miguel Couto, 58 - Centro, São Paulo - State of São Paulo, Brazil
+2025-04-09 14:06:47,726 - WARNING - No location found for address: Rua Doutor Miguel Couto, 58 - Centro, São Paulo - State of São Paulo, Brazil
+2025-04-09 14:06:50,440 - WARNING - No location found for address: Rua Doutor Miguel Couto, 58 - Centro, São Paulo - State of São Paulo, Brazil
+2025-04-09 14:06:51,869 - INFO - Successfully geocoded address: Rua Engenheiro Afonso Cavalcanti, 100 - Bela Vista, Porto Alegre - RS, Brazil -> (-30.034832740892647, -51.190740930740574)
+2025-04-09 14:06:54,596 - WARNING - No location found for address: Avenida Eid Mansur, 666 - Vila Santo Antonio de Carapicuiba, Cotia - State of São Paulo, Brazil
+2025-04-09 14:06:55,146 - WARNING - No location found for address: Avenida Eid Mansur, 666 - Vila Santo Antonio de Carapicuiba, Cotia - State of São Paulo, Brazil
+2025-04-09 14:06:56,170 - WARNING - No location found for address: Avenida Eid Mansur, 666 - Vila Santo Antonio de Carapicuiba, Cotia - State of São Paulo, Brazil
+2025-04-09 14:06:58,262 - WARNING - No location found for address: Estrada Adhemar Bebiano, 1380 - Del Castilho, Rio de Janeiro - State of Rio de Janeiro, Brazil
+2025-04-09 14:06:58,711 - WARNING - No location found for address: Estrada Adhemar Bebiano, 1380 - Del Castilho, Rio de Janeiro - State of Rio de Janeiro, Brazil
+2025-04-09 14:06:59,686 - WARNING - No location found for address: Estrada Adhemar Bebiano, 1380 - Del Castilho, Rio de Janeiro - State of Rio de Janeiro, Brazil
+2025-04-09 14:07:00,692 - INFO - Geocoding completed. Success: 1, Failed: 9
+2025-04-09 14:07:00,692 - WARNING - Failed addresses:
+2025-04-09 14:07:00,692 - WARNING - - Avenida Ceci, 1900 - Residencial Tambore, Barueri - State of São Paulo, Brazil
+2025-04-09 14:07:00,693 - WARNING - - Avenida Marcos Penteado de Ulhôa Rodrigues, 249 - Residencial Tres (Tambore), Santana de Parnaíba - State of São Paulo, Brazil
+2025-04-09 14:07:00,693 - WARNING - - Rua Santa Teresa, 64 - Centro Histórico de São Paulo, São Paulo - State of São Paulo, Brazil
+2025-04-09 14:07:00,693 - WARNING - - Avenida Ceci, 1900 - Residencial Tambore, Barueri - State of São Paulo, Brazil
+2025-04-09 14:07:00,693 - WARNING - - Alameda Araguaia, 3641 - Tamboré, Barueri - State of São Paulo, Brazil
+2025-04-09 14:07:00,693 - WARNING - - Rua Dr. Eduardo Martinelli, 100 - Vila Mariana, São Paulo - State of São Paulo, Brazil
+2025-04-09 14:07:00,693 - WARNING - - Rua Doutor Miguel Couto, 58 - Centro, São Paulo - State of São Paulo, Brazil
+2025-04-09 14:07:00,693 - WARNING - - Avenida Eid Mansur, 666 - Vila Santo Antonio de Carapicuiba, Cotia - State of São Paulo, Brazil
+2025-04-09 14:07:00,693 - WARNING - - Estrada Adhemar Bebiano, 1380 - Del Castilho, Rio de Janeiro - State of Rio de Janeiro, Brazil
+2025-04-09 14:07:00,720 - INFO - Created 1 records
+2025-04-09 14:07:00,720 - INFO - Saved processed data centers to: /Users/leonardogomes/Library/CloudStorage/GoogleDrive-leodavinci550@gmail.com/My Drive/Elementum/GCB/Data Centers/dc_map_project/data/processed/brazil
+2025-04-09 14:07:00,722 - INFO - Loading cell towers data from: /Users/leonardogomes/Library/CloudStorage/GoogleDrive-leodavinci550@gmail.com/My Drive/Elementum/GCB/Data Centers/dc_map_project/data/raw/global/cell_towers.csv
+2025-04-09 14:07:02,852 - INFO - Running in test mode - processing only 10 rows
+2025-04-09 14:07:02,872 - INFO - Filtered to 0 cell towers in Brazil
+2025-04-09 14:07:02,880 - INFO - Created 0 records
+2025-04-09 14:07:02,880 - INFO - Saved processed cell towers to: /Users/leonardogomes/Library/CloudStorage/GoogleDrive-leodavinci550@gmail.com/My Drive/Elementum/GCB/Data Centers/dc_map_project/data/processed/brazil
+2025-04-09 14:07:02,881 - INFO - Loading substations from: /Users/leonardogomes/Library/CloudStorage/GoogleDrive-leodavinci550@gmail.com/My Drive/Elementum/GCB/Data Centers/dc_map_project/data/raw/brasil/infraestrutura_eletrica/subestacao.geojson
+2025-04-09 14:07:02,903 - INFO - Loading transmission lines from: /Users/leonardogomes/Library/CloudStorage/GoogleDrive-leodavinci550@gmail.com/My Drive/Elementum/GCB/Data Centers/dc_map_project/data/raw/brasil/infraestrutura_eletrica/linha_transmissao.geojson
+2025-04-09 14:07:03,018 - INFO - Running in test mode - processing only 10 rows
+2025-04-09 14:07:03,020 - INFO - Created 10 records
+2025-04-09 14:07:03,022 - INFO - Created 10 records
+2025-04-09 14:07:03,022 - INFO - Saved processed infrastructure data to: /Users/leonardogomes/Library/CloudStorage/GoogleDrive-leodavinci550@gmail.com/My Drive/Elementum/GCB/Data Centers/dc_map_project/data/processed/brazil
+2025-04-09 14:07:03,022 - INFO - Data processing completed successfully!
+2025-04-09 14:07:27,463 - INFO - Starting data processing for Brazil...
+2025-04-09 14:07:27,463 - INFO - Running in TEST MODE - processing only 10 rows of each dataset
+2025-04-09 14:07:27,463 - INFO - Loading data center locations from: /Users/leonardogomes/Library/CloudStorage/GoogleDrive-leodavinci550@gmail.com/My Drive/Elementum/GCB/Data Centers/dc_map_project/data/raw/brasil/datacenter_map_scraped_brasil.csv
+2025-04-09 14:07:27,466 - INFO - Running in test mode - processing only 10 rows
+2025-04-09 14:07:27,469 - INFO - Starting geocoding process...
+2025-04-09 14:07:28,591 - INFO - Successfully geocoded address: Avenida Ceci, 1900 - Residencial Tambore, Barueri - State of São Paulo, Brazil -> (-23.498109103703158, -46.81977215383011)
+2025-04-09 14:07:31,192 - WARNING - No location found for address: Avenida Marcos Penteado de Ulhôa Rodrigues, 249 - Residencial Tres (Tambore), Santana de Parnaíba - State of São Paulo, Brazil
+2025-04-09 14:07:32,106 - WARNING - No location found for address: Avenida Marcos Penteado de Ulhôa Rodrigues, 249 - Residencial Tres (Tambore), Santana de Parnaíba - State of São Paulo, Brazil
+2025-04-09 14:07:33,100 - WARNING - No location found for address: Avenida Marcos Penteado de Ulhôa Rodrigues, 249 - Residencial Tres (Tambore), Santana de Parnaíba - State of São Paulo, Brazil
+2025-04-09 14:07:34,779 - INFO - Successfully geocoded address: Rua Santa Teresa, 64 - Centro Histórico de São Paulo, São Paulo - State of São Paulo, Brazil -> (-23.645368046653324, -46.838112933380074)
+2025-04-09 14:07:35,785 - INFO - Cache hit for address: Avenida Ceci, 1900 - Residencial Tambore, Barueri - State of São Paulo, Brazil
+2025-04-09 14:07:37,141 - INFO - Successfully geocoded address: Alameda Araguaia, 3641 - Tamboré, Barueri - State of São Paulo, Brazil -> (-23.50264315, -46.82710274269107)
+2025-04-09 14:07:38,530 - INFO - Successfully geocoded address: Rua Dr. Eduardo Martinelli, 100 - Vila Mariana, São Paulo - State of São Paulo, Brazil -> (-23.5800165875591, -46.64077003181534)
+2025-04-09 14:07:40,055 - INFO - Successfully geocoded address: Rua Doutor Miguel Couto, 58 - Centro, São Paulo - State of São Paulo, Brazil -> (-23.52951474806991, -46.346862145560586)
+2025-04-09 14:07:41,059 - INFO - Cache hit for address: Rua Engenheiro Afonso Cavalcanti, 100 - Bela Vista, Porto Alegre - RS, Brazil
+2025-04-09 14:07:43,585 - WARNING - No location found for address: Avenida Eid Mansur, 666 - Vila Santo Antonio de Carapicuiba, Cotia - State of São Paulo, Brazil
+2025-04-09 14:07:44,654 - WARNING - No location found for address: Avenida Eid Mansur, 666 - Vila Santo Antonio de Carapicuiba, Cotia - State of São Paulo, Brazil
+2025-04-09 14:07:45,543 - WARNING - No location found for address: Avenida Eid Mansur, 666 - Vila Santo Antonio de Carapicuiba, Cotia - State of São Paulo, Brazil
+2025-04-09 14:07:46,903 - INFO - Successfully geocoded address: Estrada Adhemar Bebiano, 1380 - Del Castilho, Rio de Janeiro - State of Rio de Janeiro, Brazil -> (-22.873750312819148, -43.267123868945994)
+2025-04-09 14:07:47,909 - INFO - Geocoding completed. Success: 8, Failed: 2
+2025-04-09 14:07:47,909 - WARNING - Failed addresses:
+2025-04-09 14:07:47,909 - WARNING - - Avenida Marcos Penteado de Ulhôa Rodrigues, 249 - Residencial Tres (Tambore), Santana de Parnaíba - State of São Paulo, Brazil
+2025-04-09 14:07:47,909 - WARNING - - Avenida Eid Mansur, 666 - Vila Santo Antonio de Carapicuiba, Cotia - State of São Paulo, Brazil
+2025-04-09 14:07:47,910 - INFO - Created 8 records
+2025-04-09 14:07:47,935 - INFO - Created 8 records
+2025-04-09 14:07:47,935 - INFO - Saved processed data centers to: /Users/leonardogomes/Library/CloudStorage/GoogleDrive-leodavinci550@gmail.com/My Drive/Elementum/GCB/Data Centers/dc_map_project/data/processed/brazil
+2025-04-09 14:07:47,936 - INFO - Loading cell towers data from: /Users/leonardogomes/Library/CloudStorage/GoogleDrive-leodavinci550@gmail.com/My Drive/Elementum/GCB/Data Centers/dc_map_project/data/raw/global/cell_towers.csv
+2025-04-09 14:07:50,300 - INFO - Running in test mode - processing only 10 rows
+2025-04-09 14:07:50,321 - INFO - Filtered to 0 cell towers in Brazil
+2025-04-09 14:07:50,324 - INFO - Created 0 records
+2025-04-09 14:07:50,324 - INFO - Saved processed cell towers to: /Users/leonardogomes/Library/CloudStorage/GoogleDrive-leodavinci550@gmail.com/My Drive/Elementum/GCB/Data Centers/dc_map_project/data/processed/brazil
+2025-04-09 14:07:50,324 - INFO - Loading substations from: /Users/leonardogomes/Library/CloudStorage/GoogleDrive-leodavinci550@gmail.com/My Drive/Elementum/GCB/Data Centers/dc_map_project/data/raw/brasil/infraestrutura_eletrica/subestacao.geojson
+2025-04-09 14:07:50,346 - INFO - Loading transmission lines from: /Users/leonardogomes/Library/CloudStorage/GoogleDrive-leodavinci550@gmail.com/My Drive/Elementum/GCB/Data Centers/dc_map_project/data/raw/brasil/infraestrutura_eletrica/linha_transmissao.geojson
+2025-04-09 14:07:50,457 - INFO - Running in test mode - processing only 10 rows
+2025-04-09 14:07:50,458 - INFO - Created 10 records
+2025-04-09 14:07:50,460 - INFO - Created 10 records
+2025-04-09 14:07:50,460 - INFO - Saved processed infrastructure data to: /Users/leonardogomes/Library/CloudStorage/GoogleDrive-leodavinci550@gmail.com/My Drive/Elementum/GCB/Data Centers/dc_map_project/data/processed/brazil
+2025-04-09 14:07:50,460 - INFO - Data processing completed successfully!
+2025-04-09 14:08:14,830 - INFO - Starting data processing for Brazil...
+2025-04-09 14:08:14,830 - INFO - Loading data center locations from: /Users/leonardogomes/Library/CloudStorage/GoogleDrive-leodavinci550@gmail.com/My Drive/Elementum/GCB/Data Centers/dc_map_project/data/raw/brasil/datacenter_map_scraped_brasil.csv
+2025-04-09 14:08:14,836 - INFO - Starting geocoding process...
+2025-04-09 14:08:14,848 - INFO - Cache hit for address: Avenida Ceci, 1900 - Residencial Tambore, Barueri - State of São Paulo, Brazil
+2025-04-09 14:08:18,246 - WARNING - No location found for address: Avenida Marcos Penteado de Ulhôa Rodrigues, 249 - Residencial Tres (Tambore), Santana de Parnaíba - State of São Paulo, Brazil
+2025-04-09 14:08:19,247 - WARNING - No location found for address: Avenida Marcos Penteado de Ulhôa Rodrigues, 249 - Residencial Tres (Tambore), Santana de Parnaíba - State of São Paulo, Brazil
+2025-04-09 14:08:20,157 - WARNING - No location found for address: Avenida Marcos Penteado de Ulhôa Rodrigues, 249 - Residencial Tres (Tambore), Santana de Parnaíba - State of São Paulo, Brazil
+2025-04-09 14:08:21,158 - INFO - Cache hit for address: Rua Santa Teresa, 64 - Centro Histórico de São Paulo, São Paulo - State of São Paulo, Brazil
+2025-04-09 14:08:22,159 - INFO - Cache hit for address: Avenida Ceci, 1900 - Residencial Tambore, Barueri - State of São Paulo, Brazil
+2025-04-09 14:08:23,165 - INFO - Cache hit for address: Alameda Araguaia, 3641 - Tamboré, Barueri - State of São Paulo, Brazil
+2025-04-09 14:08:24,170 - INFO - Cache hit for address: Rua Dr. Eduardo Martinelli, 100 - Vila Mariana, São Paulo - State of São Paulo, Brazil
+2025-04-09 14:08:25,175 - INFO - Cache hit for address: Rua Doutor Miguel Couto, 58 - Centro, São Paulo - State of São Paulo, Brazil
+2025-04-09 14:08:26,180 - INFO - Cache hit for address: Rua Engenheiro Afonso Cavalcanti, 100 - Bela Vista, Porto Alegre - RS, Brazil
+2025-04-09 14:08:28,661 - WARNING - No location found for address: Avenida Eid Mansur, 666 - Vila Santo Antonio de Carapicuiba, Cotia - State of São Paulo, Brazil
+2025-04-09 14:08:29,687 - WARNING - No location found for address: Avenida Eid Mansur, 666 - Vila Santo Antonio de Carapicuiba, Cotia - State of São Paulo, Brazil
+2025-04-09 14:08:30,698 - WARNING - No location found for address: Avenida Eid Mansur, 666 - Vila Santo Antonio de Carapicuiba, Cotia - State of São Paulo, Brazil
+2025-04-09 14:08:31,703 - INFO - Cache hit for address: Estrada Adhemar Bebiano, 1380 - Del Castilho, Rio de Janeiro - State of Rio de Janeiro, Brazil
+2025-04-09 14:08:34,725 - WARNING - No location found for address: Rua do Semeador, 350 - Cidade Industrial de Curitiba, Curitiba - State of Paraná, Brazil
+2025-04-09 14:08:35,298 - WARNING - No location found for address: Rua do Semeador, 350 - Cidade Industrial de Curitiba, Curitiba - State of Paraná, Brazil
+2025-04-09 14:08:36,422 - WARNING - No location found for address: Rua do Semeador, 350 - Cidade Industrial de Curitiba, Curitiba - State of Paraná, Brazil
+2025-04-09 14:08:37,809 - INFO - Successfully geocoded address: Estrada dos Bandeirantes, 10916 - Jacarepaguá, Rio de Janeiro - State of Rio de Janeiro, Brazil -> (-22.96110540909326, -43.393836926466506)
+2025-04-09 14:08:40,415 - WARNING - No location found for address: Rua Guido de Camargo Penteado Sobrinho - Chácara de Recreio Barao, Campinas - State of São Paulo, Brazil
+2025-04-09 14:08:41,242 - WARNING - No location found for address: Rua Guido de Camargo Penteado Sobrinho - Chácara de Recreio Barao, Campinas - State of São Paulo, Brazil
+2025-04-09 14:08:42,332 - WARNING - No location found for address: Rua Guido de Camargo Penteado Sobrinho - Chácara de Recreio Barao, Campinas - State of São Paulo, Brazil
+2025-04-09 14:08:43,687 - INFO - Successfully geocoded address: Rua Presbítero Plínio Alves De Souza, Ermida, Jundiaí - São Paulo, Brasil - Jardim Ermida I, Jundiaí - State of São Paulo, Brazil -> (-23.187929097525963, -46.97305326187163)
+2025-04-09 14:08:45,073 - INFO - Successfully geocoded address: Rua Voluntários da Pátria, 360 - Botafogo, Rio de Janeiro - State of Rio de Janeiro, Brazil -> (-22.95474435, -43.19458962590461)
+2025-04-09 14:08:47,993 - WARNING - No location found for address: Rua Bento Branco de Andrade Filho - Jardim Dom Bosco, São Paulo - State of São Paulo, Brazil
+2025-04-09 14:08:48,814 - WARNING - No location found for address: Rua Bento Branco de Andrade Filho - Jardim Dom Bosco, São Paulo - State of São Paulo, Brazil
+2025-04-09 14:08:49,729 - WARNING - No location found for address: Rua Bento Branco de Andrade Filho - Jardim Dom Bosco, São Paulo - State of São Paulo, Brazil
+2025-04-09 14:08:51,478 - INFO - Successfully geocoded address: Rua Papa João Paulo II, 4 - Jardim Santa Izabel, Hortolândia - State of São Paulo, Brazil -> (-22.89540854282722, -47.177466167779286)
+2025-04-09 14:08:54,346 - WARNING - No location found for address: Av. Marcos Penteado de Ulhôa Rodrigues, 1690 - Res. Tres (Tambore), Santana de Parnaíba - State of São Paulo, Brazil
+2025-04-09 14:08:55,341 - WARNING - No location found for address: Av. Marcos Penteado de Ulhôa Rodrigues, 1690 - Res. Tres (Tambore), Santana de Parnaíba - State of São Paulo, Brazil
+2025-04-09 14:08:56,357 - WARNING - No location found for address: Av. Marcos Penteado de Ulhôa Rodrigues, 1690 - Res. Tres (Tambore), Santana de Parnaíba - State of São Paulo, Brazil
+2025-04-09 14:08:57,926 - INFO - Successfully geocoded address: Alameda Araguaia, 3641 - Tamboré, Barueri - SP, 06455-000, Brazil -> (-23.50264315, -46.82710274269107)
+2025-04-09 14:08:59,539 - INFO - Successfully geocoded address: Avenida Coronel Phidias Távora, 513 - Pavuna, Rio de Janeiro - RJ, 21535-510, Brazil -> (-22.808158525311917, -43.34022894054106)
+2025-04-09 14:09:00,808 - INFO - Successfully geocoded address: São Paulo, State of São Paulo, Brazil -> (-23.5506507, -46.6333824)
+2025-04-09 14:09:02,348 - INFO - Successfully geocoded address: Av. Ceci, 1850 - Tamboré, Barueri - SP, 06460-120, Brazil -> (-23.496901490629213, -46.8286808214364)
+2025-04-09 14:09:04,877 - WARNING - No location found for address: Av. Eid Mansur, 666 - Vila Santo Antonio de Carapicuiba, Cotia - São Paulo, Brazil
+2025-04-09 14:09:05,873 - WARNING - No location found for address: Av. Eid Mansur, 666 - Vila Santo Antonio de Carapicuiba, Cotia - São Paulo, Brazil
+2025-04-09 14:09:06,823 - WARNING - No location found for address: Av. Eid Mansur, 666 - Vila Santo Antonio de Carapicuiba, Cotia - São Paulo, Brazil
+2025-04-09 14:09:08,737 - INFO - Successfully geocoded address: Rua Tutóia, 1157 - Vila Mariana, São Paulo - State of São Paulo, Brazil -> (-23.57830968090799, -46.65106056814752)
+2025-04-09 14:09:11,486 - WARNING - No location found for address: Avenida Marcos Penteado de Ulhôa Rodrigues - Residencial Tres (Tambore), Santana de Parnaíba - State of São Paulo, Brazil
+2025-04-09 14:09:12,113 - WARNING - No location found for address: Avenida Marcos Penteado de Ulhôa Rodrigues - Residencial Tres (Tambore), Santana de Parnaíba - State of São Paulo, Brazil
+2025-04-09 14:09:13,646 - WARNING - No location found for address: Avenida Marcos Penteado de Ulhôa Rodrigues - Residencial Tres (Tambore), Santana de Parnaíba - State of São Paulo, Brazil
+2025-04-09 14:09:16,662 - WARNING - No location found for address: R. Dr. Miguel Couto, 58 - Centro Histórico de São Paulo, São Paulo - SP, 01008-010, Brazil
+2025-04-09 14:09:18,625 - WARNING - No location found for address: R. Dr. Miguel Couto, 58 - Centro Histórico de São Paulo, São Paulo - SP, 01008-010, Brazil
+2025-04-09 14:09:19,755 - WARNING - No location found for address: R. Dr. Miguel Couto, 58 - Centro Histórico de São Paulo, São Paulo - SP, 01008-010, Brazil
+2025-04-09 14:09:23,733 - WARNING - No location found for address: Av. Roberto Pinto Sobrinho, 306-744 - Vila Menck, Osasco - SP, 02675-031, Brazil
+2025-04-09 14:09:25,270 - WARNING - No location found for address: Av. Roberto Pinto Sobrinho, 306-744 - Vila Menck, Osasco - SP, 02675-031, Brazil
+2025-04-09 14:09:25,971 - WARNING - No location found for address: Av. Roberto Pinto Sobrinho, 306-744 - Vila Menck, Osasco - SP, 02675-031, Brazil
+2025-04-09 14:09:28,544 - WARNING - No location found for address: Av. Marcos Penteado de Ulhôa Rodrigues, 888 - Residencial Tres (Tambore), Santana de Parnaíba - São Paulo, 06543-001, Brazil
+2025-04-09 14:09:29,568 - WARNING - No location found for address: Av. Marcos Penteado de Ulhôa Rodrigues, 888 - Residencial Tres (Tambore), Santana de Parnaíba - São Paulo, 06543-001, Brazil
+2025-04-09 14:09:31,535 - WARNING - No location found for address: Av. Marcos Penteado de Ulhôa Rodrigues, 888 - Residencial Tres (Tambore), Santana de Parnaíba - São Paulo, 06543-001, Brazil
+2025-04-09 14:09:33,152 - INFO - Successfully geocoded address: Alameda Araguaia, 3641 - Alphaville, Barueri - State of São Paulo, 06455-000, Brazil -> (-23.500098774970663, -46.84390232269072)
+2025-04-09 14:09:34,588 - INFO - Successfully geocoded address: Avenida Paulista, 71 - Bela Vista, São Paulo - State of São Paulo, Brazil -> (-23.56749775, -46.649099899999996)
+2025-04-09 14:09:35,875 - INFO - Successfully geocoded address: Vinhedo, State of São Paulo, Brazil -> (-23.0298535, -46.9749847)
+2025-04-09 14:09:38,368 - WARNING - No location found for address: Avenida Marginal Direita Anchieta, 1241 - Jordanópolis, São Bernardo do Campo - State of São Paulo, Brazil
+2025-04-09 14:09:39,501 - WARNING - No location found for address: Avenida Marginal Direita Anchieta, 1241 - Jordanópolis, São Bernardo do Campo - State of São Paulo, Brazil
+2025-04-09 14:09:40,471 - WARNING - No location found for address: Avenida Marginal Direita Anchieta, 1241 - Jordanópolis, São Bernardo do Campo - State of São Paulo, Brazil
+2025-04-09 14:09:41,473 - INFO - Cache hit for address: São Paulo, State of São Paulo, Brazil
+2025-04-09 14:09:42,984 - INFO - Successfully geocoded address: Av. Ceci, 1850 - Tamboré, Barueri - State of São Paulo, Brazil -> (-23.49791495631882, -46.82162116063731)
+2025-04-09 14:09:46,283 - WARNING - No location found for address: Avenida Marcos Penteado de Ulhôa Rodrigues, 249 - Residencial Tres (Tambore), Santana de Parnaíba - State of São Paulo, 06543-385, Brazil
+2025-04-09 14:09:47,591 - WARNING - No location found for address: Avenida Marcos Penteado de Ulhôa Rodrigues, 249 - Residencial Tres (Tambore), Santana de Parnaíba - State of São Paulo, 06543-385, Brazil
+2025-04-09 14:09:48,957 - WARNING - No location found for address: Avenida Marcos Penteado de Ulhôa Rodrigues, 249 - Residencial Tres (Tambore), Santana de Parnaíba - State of São Paulo, 06543-385, Brazil
+2025-04-09 14:09:51,649 - WARNING - No location found for address: Avenida Pierre Simon de Laplace, 1211 - Techno Park, Campinas - SP, 13069-320, Brazil
+2025-04-09 14:09:52,711 - WARNING - No location found for address: Avenida Pierre Simon de Laplace, 1211 - Techno Park, Campinas - SP, 13069-320, Brazil
+2025-04-09 14:09:53,736 - WARNING - No location found for address: Avenida Pierre Simon de Laplace, 1211 - Techno Park, Campinas - SP, 13069-320, Brazil
+2025-04-09 14:09:55,534 - INFO - Successfully geocoded address: Av. São Paulo, 1223 - Estados, João Pessoa - PB, 58030-040, Brazil -> (-7.117642119504635, -34.86126482336578)
+2025-04-09 14:09:57,041 - INFO - Successfully geocoded address: Av. Roberto Pinto Sobrinho, 350 - Vila Menck, Osasco - SP, 02675-031, Brazil -> (-23.493522900000002, -46.778517699999995)
+2025-04-09 14:09:59,598 - WARNING - No location found for address: Av. Marcos Penteado de Ulhôa Rodrigues, 249 - Res. Tres (Tambore), Santana de Parnaíba - SP, Brazil
+2025-04-09 14:10:00,631 - WARNING - No location found for address: Av. Marcos Penteado de Ulhôa Rodrigues, 249 - Res. Tres (Tambore), Santana de Parnaíba - SP, Brazil
+2025-04-09 14:10:01,840 - WARNING - No location found for address: Av. Marcos Penteado de Ulhôa Rodrigues, 249 - Res. Tres (Tambore), Santana de Parnaíba - SP, Brazil
+2025-04-09 14:10:03,464 - INFO - Successfully geocoded address: Estr. dos Bandeirantes, 10916 - Jacarepaguá, Rio de Janeiro - RJ, 22783-111, Brasil -> (-22.96110540909326, -43.393836926466506)
+2025-04-09 14:10:05,104 - INFO - Successfully geocoded address: R. Papa João Paulo II, 4 - Jardim Santa Izabel, Hortolândia - SP, 13185-252, Brazil -> (-22.89540854282722, -47.177466167779286)
+2025-04-09 14:10:06,799 - INFO - Successfully geocoded address: Rua Senador Accioly Filho, 2200 - Cidade Industrial de Curitiba, Curitiba - PR, 81350-200, Brazil -> (-25.4962621, -49.3288227)
+2025-04-09 14:10:08,312 - INFO - Successfully geocoded address: Av. Roberto Pinto Sobrinho, 350 - Vila Menck, Osasco - State of São Paulo, Brazil -> (-23.49349295, -46.778577150000004)
+2025-04-09 14:10:09,882 - INFO - Successfully geocoded address: Av. Ceci, 1600 - Jardim Mutinga, Barueri - SP, 06460-120, Brazil -> (-23.49791495631882, -46.82162116063731)
+2025-04-09 14:10:11,647 - INFO - Successfully geocoded address: Alameda Araguacema, 187 - Tamboré, Barueri - SP, 06460-070, Brazil -> (-23.501569240940213, -46.824631020771086)
+2025-04-09 14:10:14,212 - WARNING - No location found for address: Av. Eid Mansur, 666 - Vila Santo Antonio de Carapicuiba, Cotia - State of São Paulo, Brazil
+2025-04-09 14:10:15,173 - WARNING - No location found for address: Av. Eid Mansur, 666 - Vila Santo Antonio de Carapicuiba, Cotia - State of São Paulo, Brazil
+2025-04-09 14:10:16,285 - WARNING - No location found for address: Av. Eid Mansur, 666 - Vila Santo Antonio de Carapicuiba, Cotia - State of São Paulo, Brazil
+2025-04-09 14:10:18,961 - WARNING - No location found for address: Rod. Pres. Dutra, 4648 - Jardim Jose Bonifacio, São João de Meriti - RJ, 25565-350, Brasil
+2025-04-09 14:10:20,068 - WARNING - No location found for address: Rod. Pres. Dutra, 4648 - Jardim Jose Bonifacio, São João de Meriti - RJ, 25565-350, Brasil
+2025-04-09 14:10:21,689 - WARNING - No location found for address: Rod. Pres. Dutra, 4648 - Jardim Jose Bonifacio, São João de Meriti - RJ, 25565-350, Brasil
+2025-04-09 14:10:24,235 - WARNING - No location found for address: Alameda Glete, 700 - Campos Elíseos, São Paulo - State of São Paulo, Brazil
+2025-04-09 14:10:25,202 - WARNING - No location found for address: Alameda Glete, 700 - Campos Elíseos, São Paulo - State of São Paulo, Brazil
+2025-04-09 14:10:26,210 - WARNING - No location found for address: Alameda Glete, 700 - Campos Elíseos, São Paulo - State of São Paulo, Brazil
+2025-04-09 14:10:29,659 - WARNING - No location found for address: Av. Roberto Pinto Sobrinho, 350 - Vila Menk, Osasco - São Paulo, Brazil
+2025-04-09 14:10:30,530 - WARNING - No location found for address: Av. Roberto Pinto Sobrinho, 350 - Vila Menk, Osasco - São Paulo, Brazil
+2025-04-09 14:10:31,552 - WARNING - No location found for address: Av. Roberto Pinto Sobrinho, 350 - Vila Menk, Osasco - São Paulo, Brazil
+2025-04-09 14:10:37,564 - WARNING - No location found for address: Av. Cid Viêira da Souza, 460-484 - Colinas da Anhanguera, Santana de Parnaíba - State of São Paulo, 06544, Brazil
+2025-04-09 14:10:38,338 - WARNING - No location found for address: Av. Cid Viêira da Souza, 460-484 - Colinas da Anhanguera, Santana de Parnaíba - State of São Paulo, 06544, Brazil
+2025-04-09 14:10:39,330 - WARNING - No location found for address: Av. Cid Viêira da Souza, 460-484 - Colinas da Anhanguera, Santana de Parnaíba - State of São Paulo, 06544, Brazil
+2025-04-09 14:10:40,630 - INFO - Successfully geocoded address: Rua Presbítero Plinio Alves de Souza - Jardim Ermida I, Jundiaí - State of São Paulo, Brazil -> (-23.187929097525963, -46.97305326187163)
+2025-04-09 14:10:43,233 - WARNING - No location found for address: Rua Voluntários da Pátria, 1555 - Historical Centre, Porto Alegre - RS, Brazil
+2025-04-09 14:10:44,321 - WARNING - No location found for address: Rua Voluntários da Pátria, 1555 - Historical Centre, Porto Alegre - RS, Brazil
+2025-04-09 14:10:45,272 - WARNING - No location found for address: Rua Voluntários da Pátria, 1555 - Historical Centre, Porto Alegre - RS, Brazil
+2025-04-09 14:10:47,808 - WARNING - No location found for address: Av. Beirute - Jardim Ermida I, Jundiaí - State of São Paulo, Brazil
+2025-04-09 14:10:48,576 - WARNING - No location found for address: Av. Beirute - Jardim Ermida I, Jundiaí - State of São Paulo, Brazil
+2025-04-09 14:10:49,647 - WARNING - No location found for address: Av. Beirute - Jardim Ermida I, Jundiaí - State of São Paulo, Brazil
+2025-04-09 14:10:52,206 - WARNING - No location found for address: Ascenty - São Paulo - Avenida Roberto Pinto Sobrinho, 350 - Vila Osasco, São Paulo - SP, 06268-120, Brazil
+2025-04-09 14:10:53,018 - WARNING - No location found for address: Ascenty - São Paulo - Avenida Roberto Pinto Sobrinho, 350 - Vila Osasco, São Paulo - SP, 06268-120, Brazil
+2025-04-09 14:10:54,009 - WARNING - No location found for address: Ascenty - São Paulo - Avenida Roberto Pinto Sobrinho, 350 - Vila Osasco, São Paulo - SP, 06268-120, Brazil
+2025-04-09 14:10:56,703 - WARNING - No location found for address: Av. Pierre Simon de Laplace, 1211 - Techno Park, Campinas - SP, 13069-320, Brazil
+2025-04-09 14:10:57,840 - WARNING - No location found for address: Av. Pierre Simon de Laplace, 1211 - Techno Park, Campinas - SP, 13069-320, Brazil
+2025-04-09 14:10:58,762 - WARNING - No location found for address: Av. Pierre Simon de Laplace, 1211 - Techno Park, Campinas - SP, 13069-320, Brazil
+2025-04-09 14:11:02,350 - WARNING - No location found for address: Rua Raimundo Esteves, 333 - Antonio Diogo, Fortaleza - Ceará, 60182-330, Brazil
+2025-04-09 14:11:03,471 - WARNING - No location found for address: Rua Raimundo Esteves, 333 - Antonio Diogo, Fortaleza - Ceará, 60182-330, Brazil
+2025-04-09 14:11:04,392 - WARNING - No location found for address: Rua Raimundo Esteves, 333 - Antonio Diogo, Fortaleza - Ceará, 60182-330, Brazil
+2025-04-09 14:11:06,834 - WARNING - No location found for address: Ascenty Sumaré - Rod. Anhanguera, s/n - Parque das Industrias (Nova Veneza), Sumaré - State of São Paulo, Brazil
+2025-04-09 14:11:07,669 - WARNING - No location found for address: Ascenty Sumaré - Rod. Anhanguera, s/n - Parque das Industrias (Nova Veneza), Sumaré - State of São Paulo, Brazil
+2025-04-09 14:11:08,702 - WARNING - No location found for address: Ascenty Sumaré - Rod. Anhanguera, s/n - Parque das Industrias (Nova Veneza), Sumaré - State of São Paulo, Brazil
+2025-04-09 14:11:10,119 - INFO - Successfully geocoded address: R. Sebastião Cardoso - Parque Brasil 500, Paulínia - State of São Paulo, Brazil -> (-22.793559569134995, -47.137736704850674)
+2025-04-09 14:11:11,125 - INFO - Cache hit for address: São Paulo, State of São Paulo, Brazil
+2025-04-09 14:11:12,785 - INFO - Successfully geocoded address: Av. Pernambuco, 1124 - Navegantes, Porto Alegre - RS, 90240-001, Brazil -> (-30.005446930502778, -51.19943155094119)
+2025-04-09 14:11:14,454 - INFO - Successfully geocoded address: Av. Ceci, 1700 - Tamboré, Barueri - SP, 06460-120, Brazil -> (-23.496901490629213, -46.8286808214364)
+2025-04-09 14:11:16,980 - WARNING - No location found for address: R. José Blumer, 150 - Chácaras Assay, Hortolândia - SP, 13186-510, Brazil
+2025-04-09 14:11:18,114 - WARNING - No location found for address: R. José Blumer, 150 - Chácaras Assay, Hortolândia - SP, 13186-510, Brazil
+2025-04-09 14:11:19,855 - WARNING - No location found for address: R. José Blumer, 150 - Chácaras Assay, Hortolândia - SP, 13186-510, Brazil
+2025-04-09 14:11:22,362 - WARNING - No location found for address: Av. Marcos Penteado de Ulhôa Rodrigues, 1690 - Res. Tambore III, Santana de Parnaíba - SP, 06543-001, Brazil
+2025-04-09 14:11:23,352 - WARNING - No location found for address: Av. Marcos Penteado de Ulhôa Rodrigues, 1690 - Res. Tambore III, Santana de Parnaíba - SP, 06543-001, Brazil
+2025-04-09 14:11:24,344 - WARNING - No location found for address: Av. Marcos Penteado de Ulhôa Rodrigues, 1690 - Res. Tambore III, Santana de Parnaíba - SP, 06543-001, Brazil
+2025-04-09 14:11:26,887 - WARNING - No location found for address: Avenida Marginal Direita Anchieta, 1241 - Jordanópolis, São Bernardo do Campo - State of São Paulo, Brazil
+2025-04-09 14:11:28,689 - WARNING - No location found for address: Avenida Marginal Direita Anchieta, 1241 - Jordanópolis, São Bernardo do Campo - State of São Paulo, Brazil
+2025-04-09 14:11:29,486 - WARNING - No location found for address: Avenida Marginal Direita Anchieta, 1241 - Jordanópolis, São Bernardo do Campo - State of São Paulo, Brazil
+2025-04-09 14:11:31,947 - WARNING - No location found for address: Quinta da Boa Vista - Parque Quinta da Boa Vista - São Cristóvão, Rio de Janeiro - RJ, Brazil
+2025-04-09 14:11:33,269 - WARNING - No location found for address: Quinta da Boa Vista - Parque Quinta da Boa Vista - São Cristóvão, Rio de Janeiro - RJ, Brazil
+2025-04-09 14:11:34,194 - WARNING - No location found for address: Quinta da Boa Vista - Parque Quinta da Boa Vista - São Cristóvão, Rio de Janeiro - RJ, Brazil
+2025-04-09 14:11:35,200 - INFO - Cache hit for address: Rua Papa João Paulo II, 4 - Jardim Santa Izabel, Hortolândia - State of São Paulo, Brazil
+2025-04-09 14:11:37,673 - INFO - Successfully geocoded address: Tv. Teixeira de Freitas, 73 - São Francisco, Curitiba - State of Paraná, Brazil -> (-25.42515022094422, -49.28078741843975)
+2025-04-09 14:11:38,676 - INFO - Cache hit for address: Rua Papa João Paulo II, 4 - Jardim Santa Izabel, Hortolândia - State of São Paulo, Brazil
+2025-04-09 14:11:40,234 - INFO - Successfully geocoded address: Av. Ceci, 1750 - Tamboré, Barueri - SP, 06460-120, Brazil -> (-23.496901490629213, -46.8286808214364)
+2025-04-09 14:11:43,407 - WARNING - No location found for address: Parque das Indústrias, Paulínia - State of São Paulo, Brazil
+2025-04-09 14:11:43,759 - WARNING - No location found for address: Parque das Indústrias, Paulínia - State of São Paulo, Brazil
+2025-04-09 14:11:44,841 - WARNING - No location found for address: Parque das Indústrias, Paulínia - State of São Paulo, Brazil
+2025-04-09 14:11:47,453 - WARNING - No location found for address: R. Maria Soares Sendas - Parque Barreto, São João de Meriti - State of Rio de Janeiro, 25586-140, Brazil
+2025-04-09 14:11:48,437 - WARNING - No location found for address: R. Maria Soares Sendas - Parque Barreto, São João de Meriti - State of Rio de Janeiro, 25586-140, Brazil
+2025-04-09 14:11:49,422 - WARNING - No location found for address: R. Maria Soares Sendas - Parque Barreto, São João de Meriti - State of Rio de Janeiro, 25586-140, Brazil
+2025-04-09 14:11:51,829 - WARNING - No location found for address: Condomínio Panamérica Park - Av. Guido Caloi - Jardim São Luís, São Paulo - State of São Paulo, Brazil
+2025-04-09 14:11:53,930 - WARNING - No location found for address: Condomínio Panamérica Park - Av. Guido Caloi - Jardim São Luís, São Paulo - State of São Paulo, Brazil
+2025-04-09 14:11:54,876 - WARNING - No location found for address: Condomínio Panamérica Park - Av. Guido Caloi - Jardim São Luís, São Paulo - State of São Paulo, Brazil
+2025-04-09 14:11:57,561 - WARNING - No location found for address: Av. Roberto Pinto Sobrinho, 306-744 - Vila Menck, Osasco - SP, 02675-031, Brazil
+2025-04-09 14:11:58,599 - WARNING - No location found for address: Av. Roberto Pinto Sobrinho, 306-744 - Vila Menck, Osasco - SP, 02675-031, Brazil
+2025-04-09 14:11:59,678 - WARNING - No location found for address: Av. Roberto Pinto Sobrinho, 306-744 - Vila Menck, Osasco - SP, 02675-031, Brazil
+2025-04-09 14:12:00,683 - INFO - Cache hit for address: São Paulo, State of São Paulo, Brazil
+2025-04-09 14:12:02,034 - INFO - Successfully geocoded address: Avenida Coronel Phidias Távora, 513 - Pavuna, Rio de Janeiro - State of Rio de Janeiro, Brazil -> (-22.808158525311917, -43.34022894054106)
+2025-04-09 14:12:03,554 - INFO - Successfully geocoded address: Av. Maria Coelho Aguiar, 215 - Jardim São Luís, São Paulo - SP, 05805-000, Brasil -> (-23.655383383916906, -46.73580844039931)
+2025-04-09 14:12:06,141 - WARNING - No location found for address: Av. Ceci, 1900 - Res. Tambore, Barueri - SP, 06460-120, Brazil
+2025-04-09 14:12:08,114 - WARNING - No location found for address: Av. Ceci, 1900 - Res. Tambore, Barueri - SP, 06460-120, Brazil
+2025-04-09 14:12:08,647 - WARNING - No location found for address: Av. Ceci, 1900 - Res. Tambore, Barueri - SP, 06460-120, Brazil
+2025-04-09 14:12:09,947 - INFO - Successfully geocoded address: Estrada Adhemar Bebiano - Del Castilho, Rio de Janeiro - RJ, 21051-070, Brazil -> (-22.873750312819148, -43.267123868945994)
+2025-04-09 14:12:11,241 - INFO - Successfully geocoded address: Canopus Corporate Alphaville - Avenida Tambore - Tamboré, Barueri - State of São Paulo, Brazil -> (-23.5033886, -46.844395492820524)
+2025-04-09 14:12:13,393 - INFO - Successfully geocoded address: Avenida Roberto Pinto Sobrinho, 350 - Vila Menck, Osasco - SP, 06268-120, Brazil -> (-23.49349295, -46.778577150000004)
+2025-04-09 14:12:14,756 - INFO - Successfully geocoded address: Avenida Coronel Phidias Távora, 513 - Pavuna, Rio de Janeiro - State of Rio de Janeiro, 21535-510, Brazil -> (-22.808158525311917, -43.34022894054106)
+2025-04-09 14:12:17,249 - WARNING - No location found for address: Setor Comercial Sul Quadra 6 Renovação CNH Brasília DF - Clínica Credenciada Detran DF - Dom Bosco, Venâncio Shopping - Asa Sul, Brasília - Distrito Federal, Brazil
+2025-04-09 14:12:18,274 - WARNING - No location found for address: Setor Comercial Sul Quadra 6 Renovação CNH Brasília DF - Clínica Credenciada Detran DF - Dom Bosco, Venâncio Shopping - Asa Sul, Brasília - Distrito Federal, Brazil
+2025-04-09 14:12:19,337 - WARNING - No location found for address: Setor Comercial Sul Quadra 6 Renovação CNH Brasília DF - Clínica Credenciada Detran DF - Dom Bosco, Venâncio Shopping - Asa Sul, Brasília - Distrito Federal, Brazil
+2025-04-09 14:12:20,782 - INFO - Successfully geocoded address: Avenida Trajano de Medeiros, 1851 - Vicente Pinzon, Fortaleza - Ceará, Brazil -> (-3.735326, -38.4618152)
+2025-04-09 14:12:22,311 - INFO - Successfully geocoded address: Avenida Ceci, 1900 - Residencial Tambore, Barueri - State of São Paulo, 06460-120, Brazil -> (-23.498109103703158, -46.81977215383011)
+2025-04-09 14:12:23,718 - INFO - Successfully geocoded address: Estrada Adhemar Bebiano, 1380 - Del Castilho, Rio de Janeiro - State of Rio de Janeiro, 21051-070, Brazil -> (-22.873750312819148, -43.267123868945994)
+2025-04-09 14:12:25,088 - INFO - Successfully geocoded address: Rua Presbítero Plinio Alves de Souza, 757 - Jardim Ermida I, Jundiaí - SP, 13212-181, Brazil -> (-23.187929097525963, -46.97305326187163)
+2025-04-09 14:12:26,652 - INFO - Successfully geocoded address: Rua General Câmara, 156 - Centro Histórico, Porto Alegre - RS, 90010-230, Brazil -> (-30.03020525, -51.2299755)
+2025-04-09 14:12:29,080 - WARNING - No location found for address: Avenida João Batista Falssarela - Jardim dos Passaros, Vinhedo - State of São Paulo, Brazil
+2025-04-09 14:12:30,016 - WARNING - No location found for address: Avenida João Batista Falssarela - Jardim dos Passaros, Vinhedo - State of São Paulo, Brazil
+2025-04-09 14:12:31,127 - WARNING - No location found for address: Avenida João Batista Falssarela - Jardim dos Passaros, Vinhedo - State of São Paulo, Brazil
+2025-04-09 14:12:32,859 - INFO - Successfully geocoded address: Rua Quatorze, 1161, Fortaleza - CE, 61921-430, Brazil -> (-3.8071614120543984, -38.54458840645687)
+2025-04-09 14:12:36,502 - WARNING - No location found for address: Rua Bento Branco de Andrade Filho, 621 - Jardim Dom Bosco, São Paulo - SP, 04757-000, Brasil
+2025-04-09 14:12:37,578 - WARNING - No location found for address: Rua Bento Branco de Andrade Filho, 621 - Jardim Dom Bosco, São Paulo - SP, 04757-000, Brasil
+2025-04-09 14:12:38,580 - WARNING - No location found for address: Rua Bento Branco de Andrade Filho, 621 - Jardim Dom Bosco, São Paulo - SP, 04757-000, Brasil
+2025-04-09 14:12:39,583 - INFO - Cache hit for address: Avenida Roberto Pinto Sobrinho, 350 - Vila Menck, Osasco - SP, 06268-120, Brazil
+2025-04-09 14:12:41,879 - WARNING - No location found for address: G54R+H7 Barueri, State of São Paulo, Brazil
+2025-04-09 14:12:42,903 - WARNING - No location found for address: G54R+H7 Barueri, State of São Paulo, Brazil
+2025-04-09 14:12:44,035 - WARNING - No location found for address: G54R+H7 Barueri, State of São Paulo, Brazil
+2025-04-09 14:12:46,265 - WARNING - No location found for address: Avenida João Batista Falssarela - Jardim dos Passaros, Vinhedo - State of São Paulo, Brazil
+2025-04-09 14:12:47,279 - WARNING - No location found for address: Avenida João Batista Falssarela - Jardim dos Passaros, Vinhedo - State of São Paulo, Brazil
+2025-04-09 14:12:48,330 - WARNING - No location found for address: Avenida João Batista Falssarela - Jardim dos Passaros, Vinhedo - State of São Paulo, Brazil
+2025-04-09 14:12:49,701 - INFO - Successfully geocoded address: Rua José Augusto Tourinho Dantas, 344 - Praia do Flamengo, Salvador - State of Bahia, 41603-110, Brazil -> (-12.918625745676103, -38.31737818403499)
+2025-04-09 14:12:50,995 - INFO - Successfully geocoded address: R. Prof. Rubens Elke Braga, 107 - Parolin, Curitiba - State of Paraná, 80220-320, Brazil -> (-25.462091059815275, -49.26763344841582)
+2025-04-09 14:12:52,737 - INFO - Successfully geocoded address: Avenida Roberto Pinto Sobrinho, 350 - Vila Menck, Osasco - State of São Paulo, 06268-120, Brazil -> (-23.49349295, -46.778577150000004)
+2025-04-09 14:12:55,309 - WARNING - No location found for address: Avenida Marcos Penteado de Ulhôa Rodrigues, 249 - Residencial Tres (Tambore), Santana de Parnaíba - State of São Paulo, 06543-001, Brazil
+2025-04-09 14:12:56,446 - WARNING - No location found for address: Avenida Marcos Penteado de Ulhôa Rodrigues, 249 - Residencial Tres (Tambore), Santana de Parnaíba - State of São Paulo, 06543-001, Brazil
+2025-04-09 14:12:57,341 - WARNING - No location found for address: Avenida Marcos Penteado de Ulhôa Rodrigues, 249 - Residencial Tres (Tambore), Santana de Parnaíba - State of São Paulo, 06543-001, Brazil
+2025-04-09 14:12:58,347 - INFO - Cache hit for address: Rua Presbítero Plinio Alves de Souza, 757 - Jardim Ermida I, Jundiaí - SP, 13212-181, Brazil
+2025-04-09 14:12:59,352 - INFO - Cache hit for address: Avenida Coronel Phidias Távora, 513 - Pavuna, Rio de Janeiro - State of Rio de Janeiro, 21535-510, Brazil
+2025-04-09 14:13:00,357 - INFO - Cache hit for address: Rua Senador Accioly Filho, 2200 - Cidade Industrial de Curitiba, Curitiba - PR, 81350-200, Brazil
+2025-04-09 14:13:02,976 - WARNING - No location found for address: R. Vargem Grande, 100 - Jacarepaguá, Rio de Janeiro - State of Rio de Janeiro, Brazil
+2025-04-09 14:13:04,001 - WARNING - No location found for address: R. Vargem Grande, 100 - Jacarepaguá, Rio de Janeiro - State of Rio de Janeiro, Brazil
+2025-04-09 14:13:05,944 - WARNING - No location found for address: R. Vargem Grande, 100 - Jacarepaguá, Rio de Janeiro - State of Rio de Janeiro, Brazil
+2025-04-09 14:13:07,484 - INFO - Successfully geocoded address: Av. Ceci, 1650 - Tamboré, Barueri - São Paulo, 06460-120, Brazil -> (-23.496901490629213, -46.8286808214364)
+2025-04-09 14:13:08,891 - INFO - Successfully geocoded address: Av. Ceci - Tamboré, Barueri - State of São Paulo, 06460-120, Brazil -> (-23.49791495631882, -46.82162116063731)
+2025-04-09 14:13:11,343 - WARNING - No location found for address: Estr. dos Romeiros, 39 - Votuparim, Santana de Parnaíba - SP, 06513-001, Brazil
+2025-04-09 14:13:12,497 - WARNING - No location found for address: Estr. dos Romeiros, 39 - Votuparim, Santana de Parnaíba - SP, 06513-001, Brazil
+2025-04-09 14:13:13,419 - WARNING - No location found for address: Estr. dos Romeiros, 39 - Votuparim, Santana de Parnaíba - SP, 06513-001, Brazil
+2025-04-09 14:13:14,421 - INFO - Cache hit for address: Rua Quatorze, 1161, Fortaleza - CE, 61921-430, Brazil
+2025-04-09 14:13:17,282 - WARNING - No location found for address: R. Raimundo Esteves, 333 - Antonio Diogo, Fortaleza - CE, 60182-330, Brazil
+2025-04-09 14:13:18,261 - WARNING - No location found for address: R. Raimundo Esteves, 333 - Antonio Diogo, Fortaleza - CE, 60182-330, Brazil
+2025-04-09 14:13:19,202 - WARNING - No location found for address: R. Raimundo Esteves, 333 - Antonio Diogo, Fortaleza - CE, 60182-330, Brazil
+2025-04-09 14:13:20,475 - INFO - Successfully geocoded address: Rua José Alexandre Buaiz - Enseada do Suá, Vitória - State of Espírito Santo, Brazil -> (-20.31141859025813, -40.29036446731785)
+2025-04-09 14:13:22,014 - INFO - Successfully geocoded address: Avenida Roberto Pinto Sobrinho, 350 - Vila Osasco, São Paulo - State of São Paulo, Brazil -> (-23.49349295, -46.778577150000004)
+2025-04-09 14:13:23,762 - INFO - Successfully geocoded address: Av. São Paulo, 1223 - Estados, João Pessoa - PB, 58088-230, Brazil -> (-7.1175975000000005, -34.85292905)
+2025-04-09 14:13:25,050 - INFO - Successfully geocoded address: São Paulo, Brazil -> (-23.5506507, -46.6333824)
+2025-04-09 14:13:27,574 - WARNING - No location found for address: Rod. Pres. Dutra - Venda Velha, São João de Meriti - RJ, 25565-350, Brazil
+2025-04-09 14:13:28,597 - WARNING - No location found for address: Rod. Pres. Dutra - Venda Velha, São João de Meriti - RJ, 25565-350, Brazil
+2025-04-09 14:13:29,554 - WARNING - No location found for address: Rod. Pres. Dutra - Venda Velha, São João de Meriti - RJ, 25565-350, Brazil
+2025-04-09 14:13:31,925 - WARNING - No location found for address: Distrito Industrial Benedito Storani, Vinhedo - State of São Paulo, Brazil
+2025-04-09 14:13:32,977 - WARNING - No location found for address: Distrito Industrial Benedito Storani, Vinhedo - State of São Paulo, Brazil
+2025-04-09 14:13:33,892 - WARNING - No location found for address: Distrito Industrial Benedito Storani, Vinhedo - State of São Paulo, Brazil
+2025-04-09 14:13:36,563 - WARNING - No location found for address: Alameda Glete, 700 - Campos Elíseos, São Paulo - SP, 01215-001, Brazil
+2025-04-09 14:13:37,483 - WARNING - No location found for address: Alameda Glete, 700 - Campos Elíseos, São Paulo - SP, 01215-001, Brazil
+2025-04-09 14:13:38,459 - WARNING - No location found for address: Alameda Glete, 700 - Campos Elíseos, São Paulo - SP, 01215-001, Brazil
+2025-04-09 14:13:40,784 - WARNING - No location found for address: Distrito Industrial Benedito Storani, Vinhedo - State of São Paulo, Brazil
+2025-04-09 14:13:41,889 - WARNING - No location found for address: Distrito Industrial Benedito Storani, Vinhedo - State of São Paulo, Brazil
+2025-04-09 14:13:42,812 - WARNING - No location found for address: Distrito Industrial Benedito Storani, Vinhedo - State of São Paulo, Brazil
+2025-04-09 14:13:43,812 - INFO - Cache hit for address: Rua Senador Accioly Filho, 2200 - Cidade Industrial de Curitiba, Curitiba - PR, 81350-200, Brazil
+2025-04-09 14:13:44,818 - INFO - Cache hit for address: São Paulo, State of São Paulo, Brazil
+2025-04-09 14:13:46,420 - INFO - Successfully geocoded address: Rua Papa João Paulo II, 4 - Jardim Santa Izabel, Hortolândia - SP, 13185-252, Brazil -> (-22.89540854282722, -47.177466167779286)
+2025-04-09 14:13:47,750 - INFO - Successfully geocoded address: SIG Q. 2 - Setor de Industrias Graficas - Brasília, Brasilia - Federal District, Brazil -> (-15.83276165, -48.08383475)
+2025-04-09 14:13:49,142 - INFO - Successfully geocoded address: Rua Guido de Camargo Penteado Sobrinho, 3685 - Barão Geraldo, Campinas - State of São Paulo, Brazil -> (-22.822626255235225, -47.0974663052019)
+2025-04-09 14:13:50,714 - INFO - Successfully geocoded address: Rua Papa João Paulo II, 5 - Jardim Santa Izabel, Hortolândia - SP, 13185-324, Brazil -> (-22.89540854282722, -47.177466167779286)
+2025-04-09 14:13:51,720 - INFO - Cache hit for address: Rua Papa João Paulo II, 4 - Jardim Santa Izabel, Hortolândia - SP, 13185-252, Brazil
+2025-04-09 14:13:52,725 - INFO - Cache hit for address: Rua Papa João Paulo II, 4 - Jardim Santa Izabel, Hortolândia - SP, 13185-252, Brazil
+2025-04-09 14:13:55,128 - WARNING - No location found for address: Via Anhanguera, 2480 - Parque das Industrias (Nova Veneza), Sumaré - SP, Brazil
+2025-04-09 14:13:56,213 - WARNING - No location found for address: Via Anhanguera, 2480 - Parque das Industrias (Nova Veneza), Sumaré - SP, Brazil
+2025-04-09 14:13:57,249 - WARNING - No location found for address: Via Anhanguera, 2480 - Parque das Industrias (Nova Veneza), Sumaré - SP, Brazil
+2025-04-09 14:13:58,253 - INFO - Cache hit for address: Rua Papa João Paulo II, 4 - Jardim Santa Izabel, Hortolândia - SP, 13185-252, Brazil
+2025-04-09 14:13:59,999 - INFO - Successfully geocoded address: Rua Sebastião Cardoso - Parque Brasil 500, Paulínia - SP, 13141-005, Brazil -> (-22.793559569134995, -47.137736704850674)
+2025-04-09 14:14:01,346 - INFO - Successfully geocoded address: SP-330, São Simão - State of São Paulo, Brazil -> (-21.40250680135909, -47.673889875899505)
+2025-04-09 14:14:03,801 - WARNING - No location found for address: SCN Q 3 - Asa Norte, Brasilia - Federal District, Brazil
+2025-04-09 14:14:04,828 - WARNING - No location found for address: SCN Q 3 - Asa Norte, Brasilia - Federal District, Brazil
+2025-04-09 14:14:05,755 - WARNING - No location found for address: SCN Q 3 - Asa Norte, Brasilia - Federal District, Brazil
+2025-04-09 14:14:06,760 - INFO - Cache hit for address: SP-330, São Simão - State of São Paulo, Brazil
+2025-04-09 14:14:07,766 - INFO - Cache hit for address: SP-330, São Simão - State of São Paulo, Brazil
+2025-04-09 14:14:08,771 - INFO - Cache hit for address: SP-330, São Simão - State of São Paulo, Brazil
+2025-04-09 14:14:10,055 - INFO - Successfully geocoded address: Rodovia Jornalista Francisco Aguirre Proença, Monte Mor - State of São Paulo, Brazil -> (-22.98472195, -47.37814095)
+2025-04-09 14:14:12,911 - WARNING - No location found for address: Av. Marcos Penteado de Ulhôa Rodrigues, 1690 - Residencial Tambore III, Santana de Parnaíba - São Paulo, 06543-001, Brazil
+2025-04-09 14:14:14,608 - WARNING - No location found for address: Av. Marcos Penteado de Ulhôa Rodrigues, 1690 - Residencial Tambore III, Santana de Parnaíba - São Paulo, 06543-001, Brazil
+2025-04-09 14:14:15,168 - WARNING - No location found for address: Av. Marcos Penteado de Ulhôa Rodrigues, 1690 - Residencial Tambore III, Santana de Parnaíba - São Paulo, 06543-001, Brazil
+2025-04-09 14:14:16,706 - INFO - Successfully geocoded address: Rua Professor Filadelfo Azevedo, 712 - Moema, São Paulo - State of São Paulo, Brazil -> (-23.590992932442038, -46.66459641755545)
+2025-04-09 14:14:17,969 - INFO - Successfully geocoded address: Avenida Dioguinho - Vicente Pinzon, Fortaleza - CE, Brazil -> (-3.7285038822947096, -38.46052824461564)
+2025-04-09 14:14:19,606 - INFO - Successfully geocoded address: Rua Sara, 36 - Santo Cristo, Rio de Janeiro - State of Rio de Janeiro, 20220-090, Brazil -> (-22.902708946051714, -43.20382561223076)
+2025-04-09 14:14:22,059 - WARNING - No location found for address: Av. Marcos Penteado de Ulhôa Rodrigues, 1690 - Residencial Tambore III, Santana de Parnaíba - São Paulo, 06543-001, Brazil
+2025-04-09 14:14:23,074 - WARNING - No location found for address: Av. Marcos Penteado de Ulhôa Rodrigues, 1690 - Residencial Tambore III, Santana de Parnaíba - São Paulo, 06543-001, Brazil
+2025-04-09 14:14:24,126 - WARNING - No location found for address: Av. Marcos Penteado de Ulhôa Rodrigues, 1690 - Residencial Tambore III, Santana de Parnaíba - São Paulo, 06543-001, Brazil
+2025-04-09 14:14:26,678 - WARNING - No location found for address: Av. Marcos Penteado de Ulhôa Rodrigues, 1690 - Residencial Tambore III, Santana de Parnaíba - São Paulo, 06543-001, Brazil
+2025-04-09 14:14:27,763 - WARNING - No location found for address: Av. Marcos Penteado de Ulhôa Rodrigues, 1690 - Residencial Tambore III, Santana de Parnaíba - São Paulo, 06543-001, Brazil
+2025-04-09 14:14:28,686 - WARNING - No location found for address: Av. Marcos Penteado de Ulhôa Rodrigues, 1690 - Residencial Tambore III, Santana de Parnaíba - São Paulo, 06543-001, Brazil
+2025-04-09 14:14:31,430 - WARNING - No location found for address: Rua Raimundo Esteves, 333 - Antonio Diogo, Fortaleza - CE, Brazil
+2025-04-09 14:14:32,426 - WARNING - No location found for address: Rua Raimundo Esteves, 333 - Antonio Diogo, Fortaleza - CE, Brazil
+2025-04-09 14:14:33,421 - WARNING - No location found for address: Rua Raimundo Esteves, 333 - Antonio Diogo, Fortaleza - CE, Brazil
+2025-04-09 14:14:34,782 - INFO - Successfully geocoded address: Rio de Janeiro, RJ, Brazil -> (-22.9110137, -43.2093727)
+2025-04-09 14:14:36,778 - INFO - Successfully geocoded address: Fortaleza - CE, Brazil -> (-3.7304512, -38.5217989)
+2025-04-09 14:14:38,161 - INFO - Successfully geocoded address: Avenida Brigadeiro Faria Lima, 3900 - Itaim Bibi, São Paulo - SP, 04538-132, Brazil -> (-23.5901699, -46.68209884093959)
+2025-04-09 14:14:39,164 - INFO - Cache hit for address: Avenida Brigadeiro Faria Lima, 3900 - Itaim Bibi, São Paulo - SP, 04538-132, Brazil
+2025-04-09 14:14:40,167 - INFO - Geocoding completed. Success: 88, Failed: 54
+2025-04-09 14:14:40,168 - WARNING - Failed addresses:
+2025-04-09 14:14:40,168 - WARNING - - Avenida Marcos Penteado de Ulhôa Rodrigues, 249 - Residencial Tres (Tambore), Santana de Parnaíba - State of São Paulo, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Avenida Eid Mansur, 666 - Vila Santo Antonio de Carapicuiba, Cotia - State of São Paulo, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Rua do Semeador, 350 - Cidade Industrial de Curitiba, Curitiba - State of Paraná, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Rua Guido de Camargo Penteado Sobrinho - Chácara de Recreio Barao, Campinas - State of São Paulo, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Rua Bento Branco de Andrade Filho - Jardim Dom Bosco, São Paulo - State of São Paulo, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Av. Marcos Penteado de Ulhôa Rodrigues, 1690 - Res. Tres (Tambore), Santana de Parnaíba - State of São Paulo, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Av. Eid Mansur, 666 - Vila Santo Antonio de Carapicuiba, Cotia - São Paulo, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Avenida Marcos Penteado de Ulhôa Rodrigues - Residencial Tres (Tambore), Santana de Parnaíba - State of São Paulo, Brazil
+2025-04-09 14:14:40,168 - WARNING - - R. Dr. Miguel Couto, 58 - Centro Histórico de São Paulo, São Paulo - SP, 01008-010, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Av. Roberto Pinto Sobrinho, 306-744 - Vila Menck, Osasco - SP, 02675-031, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Av. Marcos Penteado de Ulhôa Rodrigues, 888 - Residencial Tres (Tambore), Santana de Parnaíba - São Paulo, 06543-001, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Avenida Marginal Direita Anchieta, 1241 - Jordanópolis, São Bernardo do Campo - State of São Paulo, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Avenida Marcos Penteado de Ulhôa Rodrigues, 249 - Residencial Tres (Tambore), Santana de Parnaíba - State of São Paulo, 06543-385, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Avenida Pierre Simon de Laplace, 1211 - Techno Park, Campinas - SP, 13069-320, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Av. Marcos Penteado de Ulhôa Rodrigues, 249 - Res. Tres (Tambore), Santana de Parnaíba - SP, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Av. Eid Mansur, 666 - Vila Santo Antonio de Carapicuiba, Cotia - State of São Paulo, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Rod. Pres. Dutra, 4648 - Jardim Jose Bonifacio, São João de Meriti - RJ, 25565-350, Brasil
+2025-04-09 14:14:40,168 - WARNING - - Alameda Glete, 700 - Campos Elíseos, São Paulo - State of São Paulo, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Av. Roberto Pinto Sobrinho, 350 - Vila Menk, Osasco - São Paulo, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Av. Cid Viêira da Souza, 460-484 - Colinas da Anhanguera, Santana de Parnaíba - State of São Paulo, 06544, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Rua Voluntários da Pátria, 1555 - Historical Centre, Porto Alegre - RS, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Av. Beirute - Jardim Ermida I, Jundiaí - State of São Paulo, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Ascenty - São Paulo - Avenida Roberto Pinto Sobrinho, 350 - Vila Osasco, São Paulo - SP, 06268-120, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Av. Pierre Simon de Laplace, 1211 - Techno Park, Campinas - SP, 13069-320, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Rua Raimundo Esteves, 333 - Antonio Diogo, Fortaleza - Ceará, 60182-330, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Ascenty Sumaré - Rod. Anhanguera, s/n - Parque das Industrias (Nova Veneza), Sumaré - State of São Paulo, Brazil
+2025-04-09 14:14:40,168 - WARNING - - R. José Blumer, 150 - Chácaras Assay, Hortolândia - SP, 13186-510, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Av. Marcos Penteado de Ulhôa Rodrigues, 1690 - Res. Tambore III, Santana de Parnaíba - SP, 06543-001, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Avenida Marginal Direita Anchieta, 1241 - Jordanópolis, São Bernardo do Campo - State of São Paulo, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Quinta da Boa Vista - Parque Quinta da Boa Vista - São Cristóvão, Rio de Janeiro - RJ, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Parque das Indústrias, Paulínia - State of São Paulo, Brazil
+2025-04-09 14:14:40,168 - WARNING - - R. Maria Soares Sendas - Parque Barreto, São João de Meriti - State of Rio de Janeiro, 25586-140, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Condomínio Panamérica Park - Av. Guido Caloi - Jardim São Luís, São Paulo - State of São Paulo, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Av. Roberto Pinto Sobrinho, 306-744 - Vila Menck, Osasco - SP, 02675-031, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Av. Ceci, 1900 - Res. Tambore, Barueri - SP, 06460-120, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Setor Comercial Sul Quadra 6 Renovação CNH Brasília DF - Clínica Credenciada Detran DF - Dom Bosco, Venâncio Shopping - Asa Sul, Brasília - Distrito Federal, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Avenida João Batista Falssarela - Jardim dos Passaros, Vinhedo - State of São Paulo, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Rua Bento Branco de Andrade Filho, 621 - Jardim Dom Bosco, São Paulo - SP, 04757-000, Brasil
+2025-04-09 14:14:40,168 - WARNING - - G54R+H7 Barueri, State of São Paulo, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Avenida João Batista Falssarela - Jardim dos Passaros, Vinhedo - State of São Paulo, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Avenida Marcos Penteado de Ulhôa Rodrigues, 249 - Residencial Tres (Tambore), Santana de Parnaíba - State of São Paulo, 06543-001, Brazil
+2025-04-09 14:14:40,168 - WARNING - - R. Vargem Grande, 100 - Jacarepaguá, Rio de Janeiro - State of Rio de Janeiro, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Estr. dos Romeiros, 39 - Votuparim, Santana de Parnaíba - SP, 06513-001, Brazil
+2025-04-09 14:14:40,168 - WARNING - - R. Raimundo Esteves, 333 - Antonio Diogo, Fortaleza - CE, 60182-330, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Rod. Pres. Dutra - Venda Velha, São João de Meriti - RJ, 25565-350, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Distrito Industrial Benedito Storani, Vinhedo - State of São Paulo, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Alameda Glete, 700 - Campos Elíseos, São Paulo - SP, 01215-001, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Distrito Industrial Benedito Storani, Vinhedo - State of São Paulo, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Via Anhanguera, 2480 - Parque das Industrias (Nova Veneza), Sumaré - SP, Brazil
+2025-04-09 14:14:40,168 - WARNING - - SCN Q 3 - Asa Norte, Brasilia - Federal District, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Av. Marcos Penteado de Ulhôa Rodrigues, 1690 - Residencial Tambore III, Santana de Parnaíba - São Paulo, 06543-001, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Av. Marcos Penteado de Ulhôa Rodrigues, 1690 - Residencial Tambore III, Santana de Parnaíba - São Paulo, 06543-001, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Av. Marcos Penteado de Ulhôa Rodrigues, 1690 - Residencial Tambore III, Santana de Parnaíba - São Paulo, 06543-001, Brazil
+2025-04-09 14:14:40,168 - WARNING - - Rua Raimundo Esteves, 333 - Antonio Diogo, Fortaleza - CE, Brazil
+2025-04-09 14:14:40,170 - INFO - Created 88 records
+2025-04-09 14:14:40,201 - INFO - Created 88 records
+2025-04-09 14:14:40,201 - INFO - Saved processed data centers to: /Users/leonardogomes/Library/CloudStorage/GoogleDrive-leodavinci550@gmail.com/My Drive/Elementum/GCB/Data Centers/dc_map_project/data/processed/brazil
+2025-04-09 14:14:40,202 - INFO - Loading cell towers data from: /Users/leonardogomes/Library/CloudStorage/GoogleDrive-leodavinci550@gmail.com/My Drive/Elementum/GCB/Data Centers/dc_map_project/data/raw/global/cell_towers.csv
+2025-04-09 14:14:42,352 - INFO - Filtered to 57716 cell towers in Brazil
+2025-04-09 14:14:43,156 - INFO - Created 57,716 records
+2025-04-09 14:14:43,159 - INFO - Saved processed cell towers to: /Users/leonardogomes/Library/CloudStorage/GoogleDrive-leodavinci550@gmail.com/My Drive/Elementum/GCB/Data Centers/dc_map_project/data/processed/brazil
+2025-04-09 14:14:43,161 - INFO - Loading substations from: /Users/leonardogomes/Library/CloudStorage/GoogleDrive-leodavinci550@gmail.com/My Drive/Elementum/GCB/Data Centers/dc_map_project/data/raw/brasil/infraestrutura_eletrica/subestacao.geojson
+2025-04-09 14:14:43,185 - INFO - Loading transmission lines from: /Users/leonardogomes/Library/CloudStorage/GoogleDrive-leodavinci550@gmail.com/My Drive/Elementum/GCB/Data Centers/dc_map_project/data/raw/brasil/infraestrutura_eletrica/linha_transmissao.geojson
+2025-04-09 14:14:43,310 - INFO - Created 1,270 records
+2025-04-09 14:14:43,407 - INFO - Created 2,455 records
+2025-04-09 14:14:43,407 - INFO - Saved processed infrastructure data to: /Users/leonardogomes/Library/CloudStorage/GoogleDrive-leodavinci550@gmail.com/My Drive/Elementum/GCB/Data Centers/dc_map_project/data/processed/brazil
+2025-04-09 14:14:43,407 - INFO - Data processing completed successfully!
