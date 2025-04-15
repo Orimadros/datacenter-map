@@ -2,6 +2,22 @@
 
 This project aims to analyze and visualize the distribution of data centers and related infrastructure (cell towers, transmission lines) across different regions, with a focus on Brazil and the United States.
 
+## Recent Updates
+
+- **XGBoost Predictive Model**: Added a machine learning model that predicts data center locations across São Paulo state
+  - Uses features like cell tower density, proximity to power infrastructure, and distance to existing hyperscalers
+  - Includes anti-overfitting mechanisms (L1/L2 regularization, reduced tree complexity)
+  - Generates predictions for all census tracts in the state
+- **Enhanced Visualization**: Improved heatmap visualization of model predictions
+  - Uses an elegant 'Reds' colormap for publication-quality output
+  - Data center points are displayed with optimized size and white outline
+  - Outputs are saved to standardized locations in the project structure
+- **False Positive Analysis**: Added detailed analysis of high-probability false positives
+  - Identifies census tracts predicted to have data centers but actually don't
+  - Analyzes feature distributions across the top 300 false positives
+  - Shows which infrastructure characteristics drive high predictions
+  - Provides insights into potential future data center locations
+
 ## Project Structure
 
 ```
@@ -25,6 +41,8 @@ dc_map_project/
 │   │       ├── broadband/       # FTTP and cable data
 │   │       └── population/
 │   ├── processed/      # Cleaned and processed data
+│   ├── model_input/    # Data ready for model consumption
+│   ├── model_output/   # Model predictions and outputs
 │   └── interim/        # Intermediate data
 ├── docs/               # Documentation
 │   ├── api/           # API documentation
@@ -40,6 +58,8 @@ dc_map_project/
 │   ├── visualization/# Plotting and visualization
 │   ├── models/       # Model code
 │   └── utils/        # Utility functions
+├── models/            # Trained model artifacts
+│   └── sao_paulo_xgboost/   # XGBoost model for São Paulo
 ├── tests/            # Test files
 └── outputs/          # Generated outputs
     ├── figures/     # Generated plots and figures
@@ -90,6 +110,7 @@ pip install -r requirements.txt
 ### Visualization
 - Visualization scripts are in `src/visualization/`
 - Example: `python src/visualization/plot_cell_towers.py`
+- Heatmap visualization: `src/visualization/plot_heatmap.py` provides a reusable function for creating probability heatmaps
 - Country-specific visualizations are saved in their respective output directories:
   - Brazil: `outputs/figures/brasil/`
   - US: `outputs/figures/us/`
@@ -99,6 +120,26 @@ pip install -r requirements.txt
   - Brazil: `notebooks/analysis/brasil/`
   - US: `notebooks/analysis/us/`
 - Reports are generated in `docs/reports/`
+
+### Predictive Modeling
+- XGBoost model for predicting data center locations: `src/models/sao_paulo_dc_prediction_xgboost.py`
+- Model features:
+  - Cell tower density and count
+  - Distance to nearest electrical substation
+  - Distance to nearest transmission line
+  - Distance to nearest hyperscaler data center
+  - Night light intensity (VIIRS)
+  - Census tract area
+  - Situational code of the census tract
+- To run the model and generate predictions:
+  ```bash
+  python src/models/sao_paulo_dc_prediction_xgboost.py
+  ```
+- The model outputs:
+  - Predictions for all census tracts as GeoJSON: `data/model_output/brasil/sao_paulo_census_tracts_predictions_xgb.geojson`
+  - Heatmap visualization: `outputs/figures/sao_paulo_city_heatmap_xgb.png`
+  - Model artifacts (saved model, scaler): `models/sao_paulo_xgboost/`
+  - False positive analysis in the log output
 
 ## Data Sources
 
