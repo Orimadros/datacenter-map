@@ -4,6 +4,18 @@ This project aims to analyze and visualize the distribution of data centers and 
 
 ## Recent Updates
 
+- **Portuguese Visualization Support**: Updated all plot text elements (titles, labels, legends) to Portuguese for Brazilian analysis
+  - Enhanced readability for Brazilian audience
+  - Consistent translation across all visualization components
+  - Provider color scheme updated (Equinix: red, Scala: black, Amazon/AWS: orange, Ascenty: blue)
+- **Data Center Infrastructure Analysis**: Added ranked visualization of data centers by infrastructure proximity
+  - Displays data centers ranked by distance to nearest substations, transmission lines, and hyperscaler on-ramps
+  - Color-coded by major providers (Equinix, Amazon/AWS, Scala, Ascenty)
+  - Outlier removal for improved visualization focus
+- **LTE Tower Analysis**: Added analysis of LTE cell tower density around data centers
+  - Counts LTE towers within 10km, 20km, and 100km radii of each data center
+  - Uses KDTree spatial indexing for efficient distance calculations
+  - Visualizes provider patterns in LTE coverage
 - **XGBoost Predictive Model**: Added a machine learning model that predicts data center locations across São Paulo state
   - Uses features like cell tower density, proximity to power infrastructure, and distance to existing hyperscalers
   - Includes anti-overfitting mechanisms (L1/L2 regularization, reduced tree complexity)
